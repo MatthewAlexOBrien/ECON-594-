@@ -1,0 +1,20 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}Initial Endowments{% endblock %}
+
+{% block content %}
+
+
+<p>
+    Your initial endowment is <strong>{{ player.initial }}</strong> and
+    your partner's endowment is <strong>{{ player.partner }}</strong>. Your
+    endowment is yours to keep, and likewise for your partner.
+
+</p>
+
+{% next_button %}
+
+    {% include Constants.instructions_template %}
+
+{% endblock %}

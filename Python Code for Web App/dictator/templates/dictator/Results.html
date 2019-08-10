@@ -1,0 +1,18 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}
+    Results
+{% endblock %}
+
+{% block content %}
+    <p>
+
+            You decided to keep <strong>{{ player.kept }}</strong> for yourself. Your total payoff
+            in Game 1 is <strong>{{ player.kept }} + {{ player.initial }} = {{ player.payoff }} </strong>
+
+
+        {% next_button %}
+    </p>
+    {% include Constants.instructions_template %}
+{% endblock %}

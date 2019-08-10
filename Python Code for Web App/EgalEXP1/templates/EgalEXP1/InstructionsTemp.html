@@ -1,0 +1,14 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}Instructions (Game 2){% endblock %}
+
+{% block content %}
+
+<p> Please carefully read the Game 2 instructions below. </p>
+
+{% next_button %}
+
+    {% include Constants.instructions_template %}
+
+{% endblock %}

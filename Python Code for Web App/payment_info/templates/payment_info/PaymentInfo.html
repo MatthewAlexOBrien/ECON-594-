@@ -1,0 +1,25 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}
+    Thank you
+{% endblock %}
+
+{% block content %}
+
+    <p>
+        Thank you for participating in this study! Please provide your email address, phone number, or reddit username
+        below so that you can be contacted in the event you win the Amazon gift card! If there is another
+        method of contact you prefer, you may also specify below. If you do not wish do disclose any contact
+        information, please enter "prefer not to disclose".
+    </p>
+
+{% formfield player.email label="Please enter your preferred contact information" %}
+
+{% next_button %}
+
+{% endblock %}
+
+
+
+

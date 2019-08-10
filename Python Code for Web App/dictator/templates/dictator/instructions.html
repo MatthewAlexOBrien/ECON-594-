@@ -1,0 +1,46 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+
+{% block content %}
+
+<div class="card bg-light instructions">
+<div class="card-body">
+
+<h4>
+        How Game 1 Works:
+</h4>
+
+<p>
+        You will be paired randomly and anonymously with another participant.
+        In this game, one of you will be Participant 1 and the other
+        Participant 2. Prior to making a decision, you will learn your role,
+        which will be randomly assigned. There are <strong>{{ Constants.endowment }}</strong>
+        to split. Participant 1 will decide how much she or he will retain.
+        Then the rest will go to Participant 2. <strong> So the more Participant 1 keeps,
+        the less Participant 2 gets </strong>.
+
+<p>
+        In addition, each player will also be randomly allocated an initial endowment
+        which will either be 10, 100, or 300 points. Each player has an equal probability
+        of receiving each of the initial endowments, and your initial endowment is yours
+        to keep regardless of the income split decision. You will learn what your
+        initial endowment is before the game starts, as well as the endowment of your
+        anonymous partner.
+</p>
+
+<h4>
+        Points and Payoffs:
+</h4>
+
+<p>
+         The total amount of points you earn in Game 1 is equal to your initial endowment plus your income split from
+         Participant 1’s decision. <strong> Total points (Game 1) = initial endowment + income split </strong>.
+         For your convenience, these instructions will remain available to you on all subsequent screens of this game.
+</p>
+
+</div>
+</div>
+
+{% endblock %}
+

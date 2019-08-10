@@ -1,0 +1,23 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}Your Decision (Game 2) {% endblock %}
+
+{% block content %}
+
+
+<p>
+    Congrats! You are <strong>Participant 1</strong>.
+    That means you get to decide on the income split. Choice 1 is an even (50, 50)
+    income split where you and your partner both get 50 points, and Choice 2 which is an
+    uneven income split (75, 150) where you get 75 points and your partner gets 150 points.
+
+</p>
+
+{% formfield player.choice label="Please choose your preferred income split" %}
+
+{% next_button %}
+
+    {% include Constants.instructions_template %}
+
+{% endblock %}
