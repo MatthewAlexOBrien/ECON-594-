@@ -1,0 +1,856 @@
+"participant_payoff","dictator_1_player_initial","dictator_1_player_partner","dictator_1_player_kept","dictator_1_player_payoff","EgalEXP_1_player_choice","EgalEXP_1_player_initial","EgalEXP_1_player_partner","EgalEXP_1_player_kept","EgalEXP_1_player_payoff","survey_1_player_age","survey_1_player_gender","survey_1_player_education","survey_1_player_ethnicity","survey_1_player_maritalstatus","survey_1_player_employment","survey_1_player_income","avenue","C1","C2","male"
+110,0,0,60,60,"Choice 1 (50,50)",0,0,50,50,23,"Female","University/College Diploma","Arab or Middle Eastern","Widowed","Unemployed looking for work",4,"Reddit",1,0,0
+235,100,10,50,150,"Choice 2 (75, 150)",10,300,75,85,35,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",40000,"CFP",0,1,0
+235,100,300,50,150,"Choice 2 (75, 150)",10,100,75,85,18,"Male","High School","Asian","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,75,75,"Choice 1 (50,50)",0,0,50,50,19,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+650,300,10,0,300,"Choice 1 (50,50)",300,300,50,350,17,"Male","Some High School Classes","Asian","Single, never married","Unemployed looking for work",0,"Reddit",1,0,1
+260,10,10,100,110,"Choice 1 (50,50)",100,300,50,150,23,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",85000,"Facebook",1,0,1
+373,100,10,98,198,"Choice 2 (75, 150)",100,10,75,175,23,"Female","University/College Graduate Degree","Asian","Single, never married","Student",0,"Facebook",0,1,0
+225,100,100,40,140,"Choice 2 (75, 150)",10,10,75,85,22,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",40000,"Facebook",0,1,1
+260,100,10,100,200,"Choice 1 (50,50)",10,300,50,60,25,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",1,0,0
+555,100,300,80,180,"Choice 2 (75, 150)",300,300,75,375,24,"Male","University/College Graduate Degree","White","Single, never married","Student",0,"Facebook",0,1,1
+774,300,10,99,399,"Choice 2 (75, 150)",300,100,75,375,20,"Female","University/College Undergraduate Degree","White","Single, never married","Unemployed not looking for work",0,"CFP",0,1,0
+445,10,300,60,70,"Choice 2 (75, 150)",300,100,75,375,24,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Facebook",0,1,1
+500,300,100,50,350,"Choice 1 (50,50)",100,300,50,150,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",18000,"Facebook",1,0,1
+385,300,10,0,300,"Choice 2 (75, 150)",10,100,75,85,20,"Other","University/College Undergraduate Degree","Pacific Islander","Married or domestic partnership","Employed for wages",0,"CFP",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,34,"Male","University/College Diploma","Arab or Middle Eastern","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,39,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",65000,"Reddit",0,1,1
+145,10,10,50,60,"Choice 2 (75, 150)",10,100,75,85,23,"Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose",0,"Reddit",0,1,0
+365,10,100,5,15,"Choice 1 (50,50)",300,300,50,350,24,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",74000,"Facebook",1,0,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,19,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+530,100,300,80,180,"Choice 1 (50,50)",300,300,50,350,53,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",85000,"Facebook",1,0,0
+575,100,300,100,200,"Choice 2 (75, 150)",300,10,75,375,26,"Male","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,1
+120,10,100,50,60,"Choice 1 (50,50)",10,100,50,60,50,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",70000,"Facebook",1,0,0
+255,10,100,95,105,"Choice 1 (50,50)",100,300,50,150,23,"Female","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"CFP",1,0,0
+210,10,100,50,60,"Choice 1 (50,50)",100,300,50,150,22,"Female","High School","White","Married or domestic partnership","Student",0,"Reddit",1,0,0
+460,10,10,100,110,"Choice 1 (50,50)",300,300,50,350,22,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",32000,"Reddit",1,0,1
+385,300,100,25,325,"Choice 1 (50,50)",10,10,50,60,27,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,0
+170,10,300,100,110,"Choice 1 (50,50)",10,10,50,60,21,"Male","Some University/College Classes","Asian","Single, never married","Employed for wages",0,"Reddit",1,0,1
+475,300,100,25,325,"Choice 1 (50,50)",100,100,50,150,22,"Female","University/College Undergraduate Degree","White","Single, never married","Student",20000,"CFP",1,0,0
+410,10,100,50,60,"Choice 1 (50,50)",300,10,50,350,38,"Male","University/College Diploma","White","Married or domestic partnership","Employed for wages",55000,"CFP",1,0,1
+75,0,0,0,0,"Choice 2 (75, 150)",0,0,75,75,21,"Male","Some University/College Classes","White","Single, never married","Unemployed not looking for work",0,"Reddit",0,1,1
+765,300,100,90,390,"Choice 2 (75, 150)",300,100,75,375,23,"Male","University/College Graduate Degree","Asian","Single, never married","Student",0,"Facebook",0,1,1
+195,100,300,10,110,"Choice 2 (75, 150)",10,10,75,85,25,"Female","Some University/College Classes","White","Single, never married","Employed for wages",29000,"Reddit",0,1,0
+245,100,10,60,160,"Choice 2 (75, 150)",10,10,75,85,24,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",120000,"CFP",0,1,1
+235,100,100,50,150,"Choice 2 (75, 150)",10,10,75,85,20,"Female","High School","White","Single, never married","Student",0,"CFP",0,1,0
+285,100,300,100,200,"Choice 2 (75, 150)",10,100,75,85,27,"Female","University/College Graduate Degree","Other","Single, never married","Employed for wages",30000,"Reddit",0,1,0
+775,300,300,100,400,"Choice 2 (75, 150)",300,100,75,375,16,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,24,"Female","University/College Diploma","Hispanic or Latino","Single, never married","Student",6000,"Reddit",1,0,0
+725,300,10,50,350,"Choice 2 (75, 150)",300,10,75,375,23,"Female","Some University/College Classes","White","Married or domestic partnership","Student",0,"Reddit",0,1,0
+220,100,100,60,160,"Choice 1 (50,50)",10,100,50,60,31,"Male","University/College Diploma","White","Single, never married","Employed for wages",45000,"Reddit",1,0,1
+525,100,300,50,150,"Choice 2 (75, 150)",300,300,75,375,21,"Male","Some University/College Classes","White","Single, never married","Employed for wages",25000,"CFP",0,1,1
+950,300,300,300,600,"Choice 1 (50,50)",300,10,50,350,23,"Male","University/College Undergraduate Degree","Hispanic or Latino","Single, never married","Unemployed looking for work",0,"Reddit",1,0,1
+550,100,10,100,200,"Choice 1 (50,50)",300,300,50,350,24,"Female","University/College Graduate Degree","White","Single, never married","Student",18001,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,38,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",150000,"Reddit",0,1,0
+210,100,100,50,150,"Choice 1 (50,50)",10,10,50,60,20,"Female","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",1,0,0
+220,10,300,60,70,"Choice 1 (50,50)",100,100,50,150,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Facebook",1,0,1
+350,100,100,100,200,"Choice 1 (50,50)",100,100,50,150,38,"Male","University/College Undergraduate Degree","White","Divorced","Employed for wages",120000,"CFP",1,0,1
+480,10,100,95,105,"Choice 2 (75, 150)",300,10,75,375,27,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",105000,"CFP",0,1,1
+235,10,100,50,60,"Choice 2 (75, 150)",100,100,75,175,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"CFP",0,1,0
+700,300,300,50,350,"Choice 1 (50,50)",300,100,50,350,28,"Male","University/College Undergraduate Degree","Other","Single, never married","Employed for wages",0,"Reddit",1,0,1
+325,100,100,50,150,"Choice 2 (75, 150)",100,300,75,175,24,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",35000,"CFP",0,1,0
+535,100,100,60,160,"Choice 2 (75, 150)",300,10,75,375,26,"Male","University/College Graduate Degree","Other","Single, never married","Student",18500,"Facebook",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,26,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",1,0,1
+525,100,300,50,150,"Choice 2 (75, 150)",300,10,75,375,27,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",20000,"Reddit",0,1,0
+575,300,10,100,400,"Choice 2 (75, 150)",100,300,75,175,35,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",80000,"Reddit",0,1,1
+690,300,10,40,340,"Choice 1 (50,50)",300,300,50,350,20,"Female","Some University/College Classes","White","Single, never married","Employed for wages",21500,"Reddit",1,0,0
+440,300,10,80,380,"Choice 1 (50,50)",10,300,50,60,56,"Female","University/College Graduate Degree","White","Divorced","Retired",0,"CFP",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,20,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+170,10,100,100,110,"Choice 1 (50,50)",10,300,50,60,19,"Female","High School","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose",0,"Reddit",1,0,0
+285,100,10,100,200,"Choice 2 (75, 150)",10,300,75,85,28,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",32000,"Reddit",0,1,1
+575,100,300,100,200,"Choice 2 (75, 150)",300,300,75,375,58,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",146000,"CFP",0,1,1
+450,10,100,90,100,"Choice 1 (50,50)",300,100,50,350,22,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",27000,"Reddit",1,0,1
+410,300,300,50,350,"Choice 1 (50,50)",10,300,50,60,58,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",119000,"Reddit",1,0,0
+750,300,10,100,400,"Choice 1 (50,50)",300,300,50,350,26,"Female","University/College Graduate Degree","Asian","Single, never married","Employed for wages",40000,"Reddit",1,0,0
+195,100,10,10,110,"Choice 2 (75, 150)",10,100,75,85,26,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",75000,"CFP",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,28,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",0,1,1
+245,100,10,60,160,"Choice 2 (75, 150)",10,100,75,85,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",80000,"CFP",0,1,1
+435,300,300,50,350,"Choice 2 (75, 150)",10,300,75,85,50,"Female","University/College Graduate Degree","White","Divorced","Employed for wages",0,"Reddit",0,1,0
+525,300,100,50,350,"Choice 2 (75, 150)",100,100,75,175,27,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",60000,"CFP",0,1,1
+775,300,300,100,400,"Choice 2 (75, 150)",300,300,75,375,25,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Student",30000,"Facebook",0,1,1
+285,100,300,100,200,"Choice 2 (75, 150)",10,10,75,85,63,"Male","University/College Diploma","White","Married or domestic partnership","Self-Employed",35000,"Reddit",0,1,1
+145,10,10,50,60,"Choice 2 (75, 150)",10,10,75,85,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",65000,"CFP",0,1,0
+285,100,300,100,200,"Choice 2 (75, 150)",10,300,75,85,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Facebook",0,1,1
+755,300,100,80,380,"Choice 2 (75, 150)",300,300,75,375,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",55000,"Facebook",0,1,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,17,"Male","High School","Asian","Prefer Not To Disclose","Prefer Not To Disclose",0,"Reddit",0,1,1
+575,100,300,100,200,"Choice 2 (75, 150)",300,100,75,375,21,"Female","University/College Undergraduate Degree","Asian","Single, never married","Student",2200,"Reddit",0,1,0
+550,100,300,100,200,"Choice 1 (50,50)",300,300,50,350,18,"Female","Some University/College Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",1,0,0
+110,0,0,60,60,"Choice 1 (50,50)",0,0,50,50,29,"Female","University/College Graduate Degree","Arab or Middle Eastern","Married or domestic partnership","Prefer Not To Disclose",0,"Reddit",1,0,0
+725,300,100,50,350,"Choice 2 (75, 150)",300,300,75,375,16,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+485,300,10,100,400,"Choice 2 (75, 150)",10,10,75,85,57,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",70000,"Facebook",0,1,0
+440,10,100,80,90,"Choice 1 (50,50)",300,100,50,350,39,"Female","University/College Diploma","White","Divorced","Unable to work",0,"Reddit",1,0,0
+500,100,300,50,150,"Choice 1 (50,50)",300,100,50,350,34,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",1,0,0
+500,100,100,50,150,"Choice 1 (50,50)",300,10,50,350,54,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",80000,"Facebook",1,0,1
+285,100,100,100,200,"Choice 2 (75, 150)",10,300,75,85,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",30000,"Facebook",0,1,1
+530,100,100,80,180,"Choice 1 (50,50)",300,300,50,350,35,"Female","University/College Graduate Degree","Prefer Not To Disclose","Married or domestic partnership","Employed for wages",0,"CFP",1,0,0
+735,300,10,60,360,"Choice 2 (75, 150)",300,10,75,375,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",40000,"Facebook",0,1,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",0,1,1
+500,300,300,50,350,"Choice 1 (50,50)",100,300,50,150,24,"Male","University/College Undergraduate Degree","White","Single, never married","Other",1500,"Facebook",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,22,"Male","Some University/College Classes","White","Single, never married","Unemployed not looking for work",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Female","High School","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,10,75,175,27,"Female","Some University/College Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,0
+525,300,10,50,350,"Choice 2 (75, 150)",100,100,75,175,51,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",90000,"Facebook",0,1,0
+750,300,300,75,375,"Choice 2 (75, 150)",300,100,75,375,52,"Female","Some University/College Classes","Hispanic or Latino","Married or domestic partnership","Self-Employed",25000,"Reddit",0,1,0
+435,300,10,50,350,"Choice 2 (75, 150)",10,300,75,85,24,"Female","University/College Graduate Degree","White","Single, never married","Student",4000,"Reddit",0,1,0
+740,300,10,65,365,"Choice 2 (75, 150)",300,100,75,375,23,"Male","Some University/College Classes","Native North American","Single, never married","Student",0,"Reddit",0,1,1
+215,100,10,55,155,"Choice 1 (50,50)",10,300,50,60,46,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,1
+284,100,10,99,199,"Choice 2 (75, 150)",10,100,75,85,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",5000,"Facebook",0,1,1
+380,10,100,20,30,"Choice 1 (50,50)",300,10,50,350,25,"Male","University/College Graduate Degree","Asian","Single, never married","Self-Employed",50000,"CFP",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,19,"Female","University/College Undergraduate Degree","Asian","Single, never married","Unemployed looking for work",0,"Reddit",0,1,0
+410,300,300,50,350,"Choice 1 (50,50)",10,300,50,60,24,"Male","University/College Graduate Degree","Asian","Single, never married","Student",0,"CFP",1,0,1
+705,300,300,55,355,"Choice 1 (50,50)",300,10,50,350,25,"Female","University/College Graduate Degree","Other","Single, never married","Employed for wages",50000,"CFP",1,0,0
+285,10,100,100,110,"Choice 2 (75, 150)",100,10,75,175,22,"Male","University/College Undergraduate Degree","White","Single, never married","Prefer Not To Disclose",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Male","High School","White","Single, never married","Employed for wages",1500,"Reddit",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,28,"Female","Some University/College Classes","White","Single, never married","Student",6000,"Reddit",0,1,0
+500,100,300,50,150,"Choice 1 (50,50)",300,300,50,350,24,"Female","University/College Graduate Degree","White","Single, never married","Student",0,"CFP",1,0,0
+91,0,0,16,16,"Choice 2 (75, 150)",0,0,75,75,16,"Other","University/College Graduate Degree","Black or African American","Divorced","Retired",58302,"Reddit",0,1,0
+575,100,10,100,200,"Choice 2 (75, 150)",300,100,75,375,27,"Male","University/College Undergraduate Degree","Prefer Not To Disclose","Single, never married","Employed for wages",0,"Facebook",0,1,1
+165,10,300,70,80,"Choice 2 (75, 150)",10,300,75,85,21,"Female","Some University/College Classes","White","Single, never married","Other",12000,"Reddit",0,1,0
+120,10,300,50,60,"Choice 1 (50,50)",10,100,50,60,24,"Female","University/College Graduate Degree","Black or African American","Single, never married","Student",50,"CFP",1,0,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,300,75,375,29,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",55000,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,31,"Male","University/College Graduate Degree","Hispanic or Latino","Married or domestic partnership","Employed for wages",60000,"Reddit",0,1,1
+475,100,300,0,100,"Choice 2 (75, 150)",300,100,75,375,30,"Male","University/College Undergraduate Degree","Other","Single, never married","Employed for wages",80000,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Male","High School","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+485,10,300,100,110,"Choice 2 (75, 150)",300,10,75,375,30,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",0,"CFP",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,26,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",150000,"Reddit",1,0,1
+410,300,100,50,350,"Choice 1 (50,50)",10,300,50,60,54,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",1,0,0
+555,100,300,80,180,"Choice 2 (75, 150)",300,10,75,375,38,"Female","University/College Graduate Degree","White","Married or domestic partnership","Unemployed looking for work",0,"Reddit",0,1,0
+210,10,10,50,60,"Choice 1 (50,50)",100,300,50,150,25,"Female","University/College Diploma","White","Single, never married","Employed for wages",42000,"Reddit",1,0,0
+510,300,10,60,360,"Choice 1 (50,50)",100,10,50,150,43,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",55000,"Reddit",1,0,0
+485,300,100,100,400,"Choice 2 (75, 150)",10,100,75,85,44,"Female","University/College Graduate Degree","White","Married or domestic partnership","Student",0,"Facebook",0,1,0
+185,100,300,0,100,"Choice 2 (75, 150)",10,10,75,85,21,"Male","University/College Undergraduate Degree","Asian","Single, never married","Employed for wages",70000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,58,"Female","University/College Undergraduate Degree","White","Divorced","Employed for wages",58000,"Reddit",0,1,0
+410,10,100,50,60,"Choice 1 (50,50)",300,300,50,350,22,"Male","University/College Diploma","White","Married or domestic partnership","Student",900,"Reddit",1,0,1
+435,10,10,50,60,"Choice 2 (75, 150)",300,300,75,375,19,"Male","Some University/College Classes","White","Single, never married","Student",3200,"Reddit",0,1,1
+435,10,100,50,60,"Choice 2 (75, 150)",300,300,75,375,24,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",40000,"Facebook",0,1,1
+195,10,300,100,110,"Choice 2 (75, 150)",10,100,75,85,25,"Male","University/College Graduate Degree","Asian","Single, never married","Student",1000,"CFP",0,1,1
+285,100,10,10,110,"Choice 2 (75, 150)",100,10,75,175,28,"Male","University/College Graduate Degree","White","Single, never married","Student",27000,"Reddit",0,1,1
+285,10,300,100,110,"Choice 2 (75, 150)",100,300,75,175,23,"Other","University/College Undergraduate Degree","White","Single, never married","Employed for wages",14000,"Reddit",0,1,0
+525,100,300,50,150,"Choice 2 (75, 150)",300,100,75,375,14,"Female","Prefer Not To Disclose","White","Single, never married","Student",0,"CFP",0,1,0
+525,300,300,50,350,"Choice 2 (75, 150)",100,100,75,175,25,"Female","University/College Graduate Degree","White","Married or domestic partnership","Unemployed looking for work",0,"Reddit",0,1,0
+445,10,100,60,70,"Choice 2 (75, 150)",300,10,75,375,24,"Female","University/College Graduate Degree","Asian","Single, never married","Student",19000,"Reddit",0,1,0
+550,100,10,100,200,"Choice 1 (50,50)",300,10,50,350,42,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,0
+745,300,100,70,370,"Choice 2 (75, 150)",300,100,75,375,26,"Male","University/College Graduate Degree","Asian","Single, never married","Student",1500,"CFP",0,1,1
+290,100,10,40,140,"Choice 1 (50,50)",100,100,50,150,19,"Female","Some University/College Classes","White","Single, never married","Student",0,"CFP",1,0,0
+285,10,10,100,110,"Choice 2 (75, 150)",100,10,75,175,15,"Male","Some High School Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+95,0,0,20,20,"Choice 2 (75, 150)",0,0,75,75,35,"Male","University/College Graduate Degree","Other","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,1
+190,100,10,5,105,"Choice 2 (75, 150)",10,300,75,85,21,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,35,"Male","High School","Prefer Not To Disclose","Married or domestic partnership","Unemployed looking for work",0,"Reddit",0,1,1
+120,10,10,50,60,"Choice 1 (50,50)",10,10,50,60,29,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",23300,"Reddit",1,0,0
+325,100,10,50,150,"Choice 2 (75, 150)",100,100,75,175,28,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",50000,"CFP",0,1,0
+725,300,100,50,350,"Choice 2 (75, 150)",300,100,75,375,23,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,100,75,175,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",32000,"Reddit",0,1,0
+140,0,0,65,65,"Choice 2 (75, 150)",0,0,75,75,19,"Male","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+325,100,100,50,150,"Choice 2 (75, 150)",100,10,75,175,22,"Female","Some University/College Classes","White","Single, never married","Student",8000,"Facebook",0,1,0
+651,300,100,1,301,"Choice 1 (50,50)",300,300,50,350,34,"Male","Some University/College Classes","White","Single, never married","Unable to work",10000,"Reddit",1,0,1
+145,10,100,50,60,"Choice 2 (75, 150)",10,300,75,85,23,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,14,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+245,10,10,60,70,"Choice 2 (75, 150)",100,10,75,175,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",50000,"Facebook",0,1,1
+300,100,300,50,150,"Choice 1 (50,50)",100,100,50,150,57,"Female","University/College Undergraduate Degree","White","Single, never married","Retired",15000,"Reddit",1,0,0
+574,300,300,99,399,"Choice 2 (75, 150)",100,100,75,175,21,"Male","University/College Graduate Degree","Other","Single, never married","Unemployed looking for work",500,"CFP",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,31,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",60000,"Reddit",1,0,1
+134,0,0,59,59,"Choice 2 (75, 150)",0,0,75,75,36,"Female","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",0,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,30,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+285,10,100,100,110,"Choice 2 (75, 150)",100,10,75,175,19,"Female","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+535,100,10,60,160,"Choice 2 (75, 150)",300,10,75,375,19,"Female","Some University/College Classes","White","Single, never married","Student",12000,"Reddit",0,1,0
+519,100,300,69,169,"Choice 1 (50,50)",300,300,50,350,19,"Male","Some University/College Classes","White","Single, never married","Employed for wages",10000,"Reddit",1,0,1
+140,10,10,70,80,"Choice 1 (50,50)",10,300,50,60,31,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,1
+245,10,300,60,70,"Choice 2 (75, 150)",100,100,75,175,22,"Other","University/College Undergraduate Degree","White","Single, never married","Employed for wages",63000,"CFP",0,1,0
+505,300,100,55,355,"Choice 1 (50,50)",100,300,50,150,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",41000,"Facebook",1,0,1
+505,300,300,78,355,"Choice 2 (75, 150)",300,300,50,150,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",41000,"Facebook",0,1,1
+505,300,300,78,355,"Choice 2 (75, 150)",300,300,50,150,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",41000,"Facebook",0,1,1
+505,300,300,78,355,"Choice 2 (75, 150)",300,300,50,150,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",41000,"Facebook",0,1,1
+505,300,300,78,355,"Choice 2 (75, 150)",300,300,50,150,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",41000,"Facebook",0,1,1
+505,300,300,78,355,"Choice 2 (75, 150)",300,300,50,150,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",41000,"Facebook",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",40000,"Reddit",1,0,0
+195,10,10,100,110,"Choice 2 (75, 150)",10,100,75,85,15,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,17,"Male","Other","White","Single, never married","Student",0,"Reddit",0,1,1
+235,10,10,50,60,"Choice 2 (75, 150)",100,100,75,175,22,"Female","High School","White","Single, never married","Student",0,"Reddit",0,1,0
+275,10,10,90,100,"Choice 2 (75, 150)",100,10,75,175,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",12000,"CFP",0,1,0
+120,10,10,50,60,"Choice 1 (50,50)",10,100,50,60,22,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",40000,"Facebook",1,0,0
+145,10,300,50,60,"Choice 2 (75, 150)",10,100,75,85,18,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+170,10,100,100,110,"Choice 1 (50,50)",10,100,50,60,25,"Female","University/College Undergraduate Degree","White","Single, never married","Student",14000,"Reddit",1,0,0
+410,10,10,50,60,"Choice 1 (50,50)",300,10,50,350,47,"Female","University/College Graduate Degree","White","Separated","Employed for wages",60000,"Reddit",1,0,0
+150,0,0,100,100,"Choice 1 (50,50)",0,0,50,50,16,"Male","Some High School Classes","Other","Single, never married","Student",5000,"Reddit",1,0,1
+120,0,0,45,45,"Choice 2 (75, 150)",0,0,75,75,20,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,300,75,375,25,"Male","Some University/College Classes","White","Single, never married","Employed for wages",25000,"Reddit",0,1,1
+285,10,300,100,110,"Choice 2 (75, 150)",100,100,75,175,21,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Student",0,"Facebook",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Female","Some University/College Classes","Black or African American","Single, never married","Student",0,"Reddit",0,1,0
+210,10,100,50,60,"Choice 1 (50,50)",100,10,50,150,18,"Female","Some University/College Classes","Asian","Single, never married","Employed for wages",0,"CFP",1,0,0
+285,10,300,100,110,"Choice 2 (75, 150)",100,100,75,175,26,"Male","University/College Graduate Degree","Asian","Single, never married","Student",0,"Facebook",0,1,1
+575,300,300,100,400,"Choice 2 (75, 150)",100,300,75,175,19,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+210,10,10,50,60,"Choice 1 (50,50)",100,10,50,150,28,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",60000,"CFP",1,0,1
+150,0,0,75,75,"Choice 2 (75, 150)",0,0,75,75,19,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+700,300,100,50,350,"Choice 1 (50,50)",300,300,50,350,21,"Male","University/College Undergraduate Degree","White","Single, never married","Student",10000,"Reddit",1,0,1
+260,100,10,100,200,"Choice 1 (50,50)",10,300,50,60,33,"Other","University/College Diploma","White","Divorced","Unemployed looking for work",0,"CFP",1,0,0
+460,10,100,100,110,"Choice 1 (50,50)",300,300,50,350,33,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Student",0,"Reddit",1,0,0
+210,100,10,50,150,"Choice 1 (50,50)",10,100,50,60,28,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,0
+145,10,100,50,60,"Choice 2 (75, 150)",10,100,75,85,20,"Female","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,0
+575,100,100,100,200,"Choice 2 (75, 150)",300,100,75,375,24,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",43000,"Facebook",0,1,1
+230,100,10,70,170,"Choice 1 (50,50)",10,10,50,60,24,"Female","University/College Diploma","White","Single, never married","Employed for wages",9329,"CFP",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",18000,"Reddit",1,0,1
+410,300,300,50,350,"Choice 1 (50,50)",10,300,50,60,25,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",28000,"CFP",1,0,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",105000,"Reddit",0,1,1
+170,10,10,75,85,"Choice 2 (75, 150)",10,100,75,85,27,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+500,100,10,50,150,"Choice 1 (50,50)",300,300,50,350,18,"Male","High School","White","Single, never married","Student",0,"CFP",1,0,1
+260,10,300,100,110,"Choice 1 (50,50)",100,300,50,150,30,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",1,0,1
+574,300,100,99,399,"Choice 2 (75, 150)",100,300,75,175,27,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",40000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Female","Some University/College Classes","White","Single, never married","Unable to work",0,"Reddit",0,1,0
+375,100,10,100,200,"Choice 2 (75, 150)",100,100,75,175,25,"Male","University/College Graduate Degree","White","Single, never married","Self-Employed",90000,"CFP",0,1,1
+475,300,10,0,300,"Choice 2 (75, 150)",100,10,75,175,23,"Female","Some University/College Classes","Black or African American","Single, never married","Unable to work",0,"Reddit",0,1,0
+300,100,300,25,125,"Choice 2 (75, 150)",100,300,75,175,23,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Student",9500,"Facebook",0,1,1
+410,300,300,50,350,"Choice 1 (50,50)",10,10,50,60,53,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",125000,"Facebook",1,0,0
+325,100,100,50,150,"Choice 2 (75, 150)",100,100,75,175,24,"Female","University/College Diploma","White","Single, never married","Employed for wages",38000,"Reddit",0,1,0
+260,10,10,100,110,"Choice 1 (50,50)",100,10,50,150,18,"Female","Some High School Classes","Black or African American","Single, never married","Student",0,"CFP",1,0,0
+451,300,10,1,301,"Choice 1 (50,50)",100,100,50,150,20,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Male","High School","White","Single, never married","Unable to work",0,"Reddit",0,1,1
+260,10,300,100,110,"Choice 1 (50,50)",100,100,50,150,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",1,0,0
+170,10,10,100,110,"Choice 1 (50,50)",10,300,50,60,30,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",30000,"Facebook",1,0,0
+725,300,300,50,350,"Choice 2 (75, 150)",300,100,75,375,23,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Student",0,"CFP",0,1,1
+300,100,10,50,150,"Choice 1 (50,50)",100,300,50,150,39,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",65000,"Reddit",1,0,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,24,"Male","University/College Undergraduate Degree","Hispanic or Latino","Single, never married","Employed for wages",0,"Reddit",0,1,1
+200,100,100,40,140,"Choice 1 (50,50)",10,10,50,60,21,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",20000,"CFP",1,0,1
+410,10,10,50,60,"Choice 1 (50,50)",300,300,50,350,54,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",70000,"CFP",1,0,1
+510,300,100,150,450,"Choice 1 (50,50)",10,100,50,60,15,"Female","Some High School Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",1,0,0
+145,10,10,50,60,"Choice 2 (75, 150)",10,100,75,85,17,"Male","Some University/College Classes","White","Single, never married","Student",200,"Reddit",0,1,1
+530,100,100,55,155,"Choice 2 (75, 150)",300,100,75,375,16,"Female","Some High School Classes","Arab or Middle Eastern","Prefer Not To Disclose","Student",0,"Reddit",0,1,0
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,22,"Female","Some University/College Classes","White","Single, never married","Student",15000,"Reddit",0,1,0
+575,300,100,100,400,"Choice 2 (75, 150)",100,300,75,175,25,"Female","University/College Graduate Degree","Asian","Single, never married","Student",0,"CFP",0,1,0
+210,10,300,50,60,"Choice 1 (50,50)",100,10,50,150,17,"Female","Other","Asian","Single, never married","Student",14000,"Reddit",1,0,0
+85,0,0,10,10,"Choice 2 (75, 150)",0,0,75,75,18,"Male","University/College Diploma","White","Single, never married","Student",8000,"Reddit",0,1,1
+300,100,300,50,150,"Choice 1 (50,50)",100,100,50,150,29,"Female","University/College Graduate Degree","Hispanic or Latino","Single, never married","Self-Employed",24000,"Reddit",1,0,0
+195,100,10,10,110,"Choice 2 (75, 150)",10,10,75,85,23,"Other","Some University/College Classes","White","Single, never married","Student",0,"CFP",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Male","Some University/College Classes","White","Single, never married","Employed for wages",4000,"Reddit",0,1,1
+235,100,10,50,150,"Choice 2 (75, 150)",10,300,75,85,21,"Prefer Not To Disclose","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+115,0,0,40,40,"Choice 2 (75, 150)",0,0,75,75,22,"Female","High School","White","Single, never married","Student",22000,"Reddit",0,1,0
+145,10,10,50,60,"Choice 2 (75, 150)",10,300,75,85,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",12000,"Facebook",0,1,1
+430,300,100,45,345,"Choice 2 (75, 150)",10,10,75,85,17,"Male","High School","Asian","Single, never married","Student",0,"CFP",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,100,75,375,24,"Male","University/College Graduate Degree","White","Single, never married","Student",12000,"Reddit",0,1,1
+300,100,300,25,125,"Choice 2 (75, 150)",100,10,75,175,41,"Male","High School","White","Married or domestic partnership","Employed for wages",35000,"Reddit",0,1,1
+550,100,300,100,200,"Choice 1 (50,50)",300,100,50,350,23,"Female","University/College Graduate Degree","Asian","Married or domestic partnership","Student",0,"Reddit",1,0,0
+350,100,300,75,175,"Choice 2 (75, 150)",100,100,75,175,21,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,1
+459,300,300,99,399,"Choice 1 (50,50)",10,100,50,60,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",45000,"Facebook",1,0,0
+549,100,10,99,199,"Choice 1 (50,50)",300,10,50,350,27,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Student",0,"CFP",1,0,1
+260,10,300,100,110,"Choice 1 (50,50)",100,300,50,150,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",42000,"Facebook",1,0,1
+325,100,300,50,150,"Choice 2 (75, 150)",100,100,75,175,20,"Male","University/College Undergraduate Degree","White","Single, never married","Student",15000,"Reddit",0,1,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,19,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+130,10,10,60,70,"Choice 1 (50,50)",10,10,50,60,18,"Female","Some High School Classes","Black or African American","Single, never married","Student",0,"Reddit",1,0,0
+450,300,300,65,365,"Choice 2 (75, 150)",10,300,75,85,16,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+535,300,300,60,360,"Choice 2 (75, 150)",100,100,75,175,34,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",70000,"Reddit",0,1,1
+735,300,100,60,360,"Choice 2 (75, 150)",300,300,75,375,21,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"CFP",0,1,0
+140,0,0,90,90,"Choice 1 (50,50)",0,0,50,50,21,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",1,0,0
+410,300,10,50,350,"Choice 1 (50,50)",10,100,50,60,18,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,27,"Female","University/College Graduate Degree","Asian","Single, never married","Employed for wages",0,"Reddit",1,0,0
+340,100,10,90,190,"Choice 1 (50,50)",100,300,50,150,24,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Facebook",1,0,0
+476,300,100,1,301,"Choice 2 (75, 150)",100,100,75,175,35,"Prefer Not To Disclose","Some University/College Classes","Prefer Not To Disclose","Divorced","Employed for wages",75000,"Reddit",0,1,0
+185,10,300,90,100,"Choice 2 (75, 150)",10,10,75,85,24,"Female","Some University/College Classes","White","Married or domestic partnership","Student",0,"Facebook",0,1,0
+210,10,100,50,60,"Choice 1 (50,50)",100,300,50,150,21,"Female","High School","White","Single, never married","Unable to work",0,"Facebook",1,0,0
+325,100,100,50,150,"Choice 2 (75, 150)",100,10,75,175,21,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",34000,"Reddit",0,1,1
+701,300,300,51,351,"Choice 1 (50,50)",300,300,50,350,18,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,29,"Male","University/College Graduate Degree","Asian","Single, never married","Employed for wages",80000,"Reddit",0,1,1
+70,0,0,20,20,"Choice 1 (50,50)",0,0,50,50,17,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+555,100,10,80,180,"Choice 2 (75, 150)",300,100,75,375,28,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",24996,"Reddit",0,1,1
+210,10,10,50,60,"Choice 1 (50,50)",100,100,50,150,24,"Female","University/College Undergraduate Degree","White","Single, never married","Student",30000,"Reddit",1,0,0
+265,100,10,80,180,"Choice 2 (75, 150)",10,10,75,85,24,"Male","University/College Diploma","White","Other","Employed for wages",30000,"CFP",0,1,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,100,75,375,22,"Male","High School","White","Single, never married","Employed for wages",24000,"Reddit",0,1,1
+260,100,100,100,200,"Choice 1 (50,50)",10,300,50,60,15,"Male","Some High School Classes","Asian","Single, never married","Student",0,"CFP",1,0,1
+525,100,10,50,150,"Choice 2 (75, 150)",300,10,75,375,25,"Male","University/College Graduate Degree","White","Single, never married","Student",16000,"CFP",0,1,1
+320,100,100,70,170,"Choice 1 (50,50)",100,300,50,150,22,"Female","University/College Graduate Degree","White","Single, never married","Student",30000,"Facebook",1,0,0
+410,10,10,50,60,"Choice 1 (50,50)",300,300,50,350,24,"Female","University/College Graduate Degree","White","Single, never married","Unemployed looking for work",37700,"Facebook",1,0,0
+300,100,100,50,150,"Choice 1 (50,50)",100,10,50,150,25,"Male","University/College Graduate Degree","Asian","Single, never married","Employed for wages",44000,"Reddit",1,0,1
+460,10,100,100,110,"Choice 1 (50,50)",300,100,50,350,29,"Female","University/College Graduate Degree","White","Divorced","Unable to work",15000,"Reddit",1,0,0
+575,300,10,100,400,"Choice 2 (75, 150)",100,100,75,175,27,"Male","University/College Undergraduate Degree","Hispanic or Latino","Married or domestic partnership","Student",34000,"Reddit",0,1,1
+510,100,10,60,160,"Choice 1 (50,50)",300,100,50,350,31,"Female","University/College Undergraduate Degree","Other","Married or domestic partnership","Student",0,"Reddit",1,0,0
+130,0,0,55,55,"Choice 2 (75, 150)",0,0,75,75,25,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,33,"Female","University/College Undergraduate Degree","Prefer Not To Disclose","Married or domestic partnership","Prefer Not To Disclose",0,"Reddit",0,1,0
+210,10,100,50,60,"Choice 1 (50,50)",100,10,50,150,22,"Female","University/College Undergraduate Degree","Black or African American","Single, never married","Employed for wages",14000,"CFP",1,0,0
+120,10,10,50,60,"Choice 1 (50,50)",10,300,50,60,24,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",65000,"Reddit",1,0,0
+535,100,100,60,160,"Choice 2 (75, 150)",300,300,75,375,39,"Female","High School","White","Single, never married","Employed for wages",30000,"Reddit",0,1,0
+145,0,0,95,95,"Choice 1 (50,50)",0,0,50,50,21,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",1,0,1
+235,10,100,50,60,"Choice 2 (75, 150)",100,10,75,175,24,"Female","University/College Undergraduate Degree","White","Single, never married","Student",16000,"Reddit",0,1,0
+325,100,300,75,175,"Choice 1 (50,50)",100,300,50,150,37,"Male","University/College Graduate Degree","Asian","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,1
+480,100,10,5,105,"Choice 2 (75, 150)",300,100,75,375,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",40000,"Reddit",0,1,1
+236,100,300,51,151,"Choice 2 (75, 150)",10,10,75,85,17,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+475,10,300,90,100,"Choice 2 (75, 150)",300,300,75,375,16,"Female","Some High School Classes","Asian","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,33,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",45000,"Reddit",0,1,0
+410,10,100,50,60,"Choice 1 (50,50)",300,10,50,350,22,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,0
+445,10,10,60,70,"Choice 2 (75, 150)",300,100,75,375,32,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,1
+500,300,300,50,350,"Choice 1 (50,50)",100,10,50,150,23,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Facebook",1,0,0
+319,100,100,69,169,"Choice 1 (50,50)",100,10,50,150,17,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+350,100,300,100,200,"Choice 1 (50,50)",100,100,50,150,37,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",50000,"CFP",1,0,0
+400,300,10,40,340,"Choice 1 (50,50)",10,100,50,60,30,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",66000,"CFP",1,0,0
+123,0,0,48,48,"Choice 2 (75, 150)",0,0,75,75,44,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",6000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",0,"Reddit",0,1,1
+285,10,300,100,110,"Choice 2 (75, 150)",100,10,75,175,26,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,27,"Female","Other","White","Single, never married","Other",12000,"Reddit",0,1,0
+410,300,300,50,350,"Choice 1 (50,50)",10,10,50,60,29,"Female","Some University/College Classes","White","Single, never married","Self-Employed",13000,"CFP",1,0,0
+235,10,300,75,85,"Choice 1 (50,50)",100,300,50,150,23,"Female","University/College Diploma","Asian","Single, never married","Employed for wages",0,"Reddit",1,0,0
+225,10,100,65,75,"Choice 1 (50,50)",100,300,50,150,37,"Female","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",0,"Reddit",1,0,0
+235,10,100,50,60,"Choice 2 (75, 150)",100,100,75,175,21,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",20000,"Reddit",0,1,0
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,22,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",30000,"Reddit",0,1,0
+255,10,10,70,80,"Choice 2 (75, 150)",100,300,75,175,18,"Female","University/College Undergraduate Degree","White","Single, never married","Student",20,"CFP",0,1,0
+750,300,10,100,400,"Choice 1 (50,50)",300,100,50,350,27,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,0
+685,300,100,300,600,"Choice 2 (75, 150)",10,300,75,85,19,"Female","University/College Undergraduate Degree","White","Single, never married","Student",800,"Reddit",0,1,0
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,29,"Male","Some University/College Classes","White","Separated","Employed for wages",50000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Female","Some University/College Classes","White","Single, never married","Employed for wages",12000,"Reddit",0,1,0
+410,300,10,50,350,"Choice 1 (50,50)",10,300,50,60,21,"Female","Some University/College Classes","White","Single, never married","Student",22000,"CFP",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,38,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",65000,"Reddit",1,0,1
+235,100,300,50,150,"Choice 2 (75, 150)",10,300,75,85,19,"Male","Some University/College Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,1
+235,10,10,50,60,"Choice 2 (75, 150)",100,10,75,175,24,"Female","University/College Graduate Degree","Asian","Single, never married","Student",0,"Facebook",0,1,0
+575,300,100,100,400,"Choice 2 (75, 150)",100,100,75,175,19,"Female","Some University/College Classes","White","Single, never married","Student",0,"CFP",0,1,0
+210,100,100,50,150,"Choice 1 (50,50)",10,10,50,60,36,"Female","University/College Graduate Degree","White","Single, never married","Self-Employed",10000,"CFP",1,0,0
+145,10,10,50,60,"Choice 2 (75, 150)",10,300,75,85,29,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+525,300,10,50,350,"Choice 2 (75, 150)",100,10,75,175,22,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"CFP",0,1,1
+524,100,300,49,149,"Choice 2 (75, 150)",300,100,75,375,21,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,0
+145,10,100,50,60,"Choice 2 (75, 150)",10,100,75,85,25,"Male","Some University/College Classes","White","Single, never married","Student",5000,"Reddit",0,1,1
+150,0,0,100,100,"Choice 1 (50,50)",0,0,50,50,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",50000,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,32,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",65000,"Reddit",0,1,1
+525,300,10,50,350,"Choice 2 (75, 150)",100,300,75,175,51,"Male","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",70000,"Reddit",0,1,1
+420,300,300,60,360,"Choice 1 (50,50)",10,100,50,60,33,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",42000,"Reddit",1,0,0
+230,10,10,70,80,"Choice 1 (50,50)",100,300,50,150,45,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",75000,"Reddit",1,0,1
+325,100,100,50,150,"Choice 2 (75, 150)",100,100,75,175,20,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",33000,"CFP",0,1,1
+725,300,100,50,350,"Choice 2 (75, 150)",300,300,75,375,26,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",32,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,27,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",45000,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,33,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",160000,"Reddit",0,1,1
+170,10,10,100,110,"Choice 1 (50,50)",10,300,50,60,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",30000,"Reddit",1,0,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,25,"Female","University/College Undergraduate Degree","White","Widowed","Employed for wages",0,"Reddit",1,0,0
+525,100,10,50,150,"Choice 2 (75, 150)",300,10,75,375,24,"Male","University/College Graduate Degree","White","Single, never married","Student",6000,"CFP",0,1,1
+775,300,10,100,400,"Choice 2 (75, 150)",300,300,75,375,26,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",32000,"CFP",0,1,0
+510,300,100,60,360,"Choice 1 (50,50)",100,300,50,150,24,"Female","University/College Diploma","Native North American","Single, never married","Employed for wages",51000,"Facebook",1,0,0
+210,10,10,50,60,"Choice 1 (50,50)",100,100,50,150,49,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",80000,"Facebook",1,0,1
+435,300,10,50,350,"Choice 2 (75, 150)",10,300,75,85,29,"Female","University/College Graduate Degree","Other","Other","Self-Employed",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+420,10,100,60,70,"Choice 1 (50,50)",300,300,50,350,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",82000,"Reddit",1,0,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,25,"Male","University/College Graduate Degree","Other","Single, never married","Student",0,"Reddit",0,1,1
+450,10,10,65,75,"Choice 2 (75, 150)",300,100,75,375,25,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",24000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,32,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",54000,"Reddit",0,1,0
+240,10,300,80,90,"Choice 1 (50,50)",100,300,50,150,37,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,0
+575,100,10,100,200,"Choice 2 (75, 150)",300,10,75,375,30,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+500,300,10,50,350,"Choice 1 (50,50)",100,10,50,150,32,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",110000,"Reddit",1,0,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,25,"Male","University/College Graduate Degree","Arab or Middle Eastern","Single, never married","Employed for wages",60000,"Reddit",0,1,1
+510,100,300,60,160,"Choice 1 (50,50)",300,10,50,350,45,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",150000,"Reddit",1,0,0
+575,100,300,100,200,"Choice 2 (75, 150)",300,300,75,375,22,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+95,10,300,0,10,"Choice 2 (75, 150)",10,300,75,85,16,"Male","High School","White","Single, never married","Other",0,"Reddit",0,1,1
+150,0,0,100,100,"Choice 1 (50,50)",0,0,50,50,21,"Male","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",1,0,1
+385,300,10,0,300,"Choice 2 (75, 150)",10,300,75,85,19,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",7200,"Reddit",0,1,0
+174,0,0,99,99,"Choice 2 (75, 150)",0,0,75,75,29,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",80000,"Reddit",0,1,1
+170,10,100,100,110,"Choice 1 (50,50)",10,300,50,60,23,"Male","University/College Graduate Degree","Other","Single, never married","Employed for wages",0,"Facebook",1,0,1
+420,10,10,60,70,"Choice 1 (50,50)",300,10,50,350,23,"Male","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",1,0,1
+143,0,0,68,68,"Choice 2 (75, 150)",0,0,75,75,18,"Female","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",0,1,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,300,75,175,32,"Female","University/College Graduate Degree","Black or African American","Single, never married","Employed for wages",0,"Reddit",0,1,0
+305,100,10,55,155,"Choice 1 (50,50)",100,300,50,150,19,"Male","Some University/College Classes","White","Single, never married","Student",6000,"Reddit",1,0,1
+210,100,300,50,150,"Choice 1 (50,50)",10,100,50,60,55,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",1,0,1
+550,300,100,75,375,"Choice 2 (75, 150)",100,100,75,175,63,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",45000,"Reddit",0,1,1
+210,100,100,50,150,"Choice 1 (50,50)",10,300,50,60,21,"Other","Some University/College Classes","Other","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,22,"Female","Some University/College Classes","White","Married or domestic partnership","Student",18000,"Reddit",0,1,0
+325,100,100,75,175,"Choice 1 (50,50)",100,10,50,150,20,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,0
+175,10,10,80,90,"Choice 2 (75, 150)",10,100,75,85,23,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",45000,"Reddit",0,1,0
+124,0,0,49,49,"Choice 2 (75, 150)",0,0,75,75,23,"Male","High School","White","Married or domestic partnership","Prefer Not To Disclose",0,"Reddit",0,1,1
+310,100,100,60,160,"Choice 1 (50,50)",100,100,50,150,24,"Male","University/College Diploma","White","Single, never married","Student",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,16,"Male","Prefer Not To Disclose","White","Single, never married","Student",0,"Reddit",0,1,1
+210,10,100,50,60,"Choice 1 (50,50)",100,10,50,150,49,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",80000,"Reddit",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,39,"Female","High School","White","Married or domestic partnership","Employed for wages",65000,"Reddit",1,0,0
+500,100,10,50,150,"Choice 1 (50,50)",300,100,50,350,46,"Male","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",3e+05,"CFP",1,0,1
+710,300,10,60,360,"Choice 1 (50,50)",300,10,50,350,27,"Female","University/College Diploma","White","Single, never married","Student",0,"Reddit",1,0,0
+140,0,0,65,65,"Choice 2 (75, 150)",0,0,75,75,21,"Female","Some University/College Classes","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Female","High School","White","Single, never married","Student",0,"Reddit",0,1,0
+235,100,10,50,150,"Choice 2 (75, 150)",10,100,75,85,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,1
+210,100,100,50,150,"Choice 1 (50,50)",10,100,50,60,18,"Female","High School","White","Single, never married","Student",0,"Reddit",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,23,"Female","University/College Graduate Degree","White","Single, never married","Student",20750,"Reddit",1,0,0
+515,100,10,40,140,"Choice 2 (75, 150)",300,300,75,375,18,"Male","High School","White","Single, never married","Student",0,"CFP",0,1,1
+149,0,0,99,99,"Choice 1 (50,50)",0,0,50,50,35,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,0
+235,100,300,50,150,"Choice 2 (75, 150)",10,10,75,85,28,"Male","University/College Undergraduate Degree","White","Single, never married","Student",10000,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,27,"Female","University/College Graduate Degree","White","Married or domestic partnership","Student",0,"Reddit",1,0,0
+75,10,10,5,15,"Choice 1 (50,50)",10,300,50,60,29,"Male","Some University/College Classes","White","Single, never married","Employed for wages",20000,"Reddit",1,0,1
+260,100,100,100,200,"Choice 1 (50,50)",10,300,50,60,26,"Male","University/College Graduate Degree","White","Single, never married","Student",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,39,"Female","Some University/College Classes","White","Divorced","Employed for wages",0,"Reddit",0,1,0
+725,300,10,75,375,"Choice 1 (50,50)",300,300,50,350,24,"Female","University/College Diploma","White","Single, never married","Employed for wages",26380,"Reddit",1,0,0
+120,10,10,25,35,"Choice 2 (75, 150)",10,10,75,85,40,"Male","Some University/College Classes","White","Other","Unable to work",13000,"Reddit",0,1,1
+210,100,100,50,150,"Choice 1 (50,50)",10,100,50,60,27,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",40000,"Reddit",1,0,0
+725,300,10,75,375,"Choice 1 (50,50)",300,10,50,350,29,"Female","University/College Graduate Degree","Black or African American","Single, never married","Self-Employed",0,"Reddit",1,0,0
+145,10,300,50,60,"Choice 2 (75, 150)",10,100,75,85,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"CFP",0,1,1
+500,100,100,50,150,"Choice 1 (50,50)",300,300,50,350,42,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",120000,"Reddit",1,0,1
+110,0,0,60,60,"Choice 1 (50,50)",0,0,50,50,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",35000,"Reddit",1,0,0
+110,0,0,60,60,"Choice 1 (50,50)",0,0,50,50,35,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,0
+70,0,0,20,20,"Choice 1 (50,50)",0,0,50,50,20,"Female","University/College Undergraduate Degree","Asian","Single, never married","Employed for wages",27000,"Reddit",1,0,0
+510,100,10,60,160,"Choice 1 (50,50)",300,300,50,350,27,"Female","University/College Undergraduate Degree","Asian","Single, never married","Employed for wages",24000,"Reddit",1,0,0
+210,100,100,50,150,"Choice 1 (50,50)",10,100,50,60,25,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",0,"CFP",1,0,0
+240,10,100,80,90,"Choice 1 (50,50)",100,300,50,150,30,"Female","Some University/College Classes","White","Single, never married","Unemployed looking for work",10000,"Reddit",1,0,0
+235,100,300,50,150,"Choice 2 (75, 150)",10,100,75,85,29,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",43000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Male","Some University/College Classes","Other","Married or domestic partnership","Employed for wages",26000,"Reddit",0,1,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,16,"Male","High School","White","Single, never married","Prefer Not To Disclose",0,"Reddit",0,1,1
+135,10,100,40,50,"Choice 2 (75, 150)",10,100,75,85,20,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+365,100,100,90,190,"Choice 2 (75, 150)",100,300,75,175,25,"Female","University/College Undergraduate Degree","White","Single, never married","Self-Employed",0,"CFP",0,1,0
+325,100,100,50,150,"Choice 2 (75, 150)",100,300,75,175,28,"Male","Some University/College Classes","Other","Single, never married","Employed for wages",50000,"CFP",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,100,75,375,18,"Female","Some University/College Classes","White","Single, never married","Student",0,"CFP",0,1,0
+445,300,300,60,360,"Choice 2 (75, 150)",10,300,75,85,14,"Male","Some High School Classes","Pacific Islander","Single, never married","Student",0,"Reddit",0,1,1
+500,100,10,50,150,"Choice 1 (50,50)",300,10,50,350,30,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Unable to work",0,"Reddit",1,0,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,21,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Male","Some University/College Classes","White","Single, never married","Unemployed looking for work",33000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,22,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+235,100,300,50,150,"Choice 2 (75, 150)",10,100,75,85,17,"Male","Some High School Classes","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+475,300,100,0,300,"Choice 2 (75, 150)",100,100,75,175,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",63000,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Female","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,27,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",67000,"Reddit",0,1,1
+725,300,10,50,350,"Choice 2 (75, 150)",300,10,75,375,22,"Male","Some University/College Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,1
+385,300,10,0,300,"Choice 2 (75, 150)",10,100,75,85,18,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+101,0,0,51,51,"Choice 1 (50,50)",0,0,50,50,24,"Female","University/College Diploma","White","Single, never married","Employed for wages",13000,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,37,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",30000,"Reddit",0,1,0
+155,0,0,80,80,"Choice 2 (75, 150)",0,0,75,75,20,"Female","Some University/College Classes","Hispanic or Latino","Single, never married","Unemployed looking for work",10000,"Reddit",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,43,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",36000,"Reddit",1,0,0
+575,100,300,100,200,"Choice 2 (75, 150)",300,10,75,375,26,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",120000,"Reddit",0,1,1
+435,300,300,50,350,"Choice 2 (75, 150)",10,100,75,85,26,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",36000,"CFP",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,22,"Female","University/College Diploma","White","Single, never married","Employed for wages",0,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,22,"Male","University/College Undergraduate Degree","Other","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+145,10,300,50,60,"Choice 2 (75, 150)",10,100,75,85,29,"Female","University/College Diploma","White","Single, never married","Employed for wages",18000,"CFP",0,1,0
+235,100,100,50,150,"Choice 2 (75, 150)",10,10,75,85,18,"Male","Some University/College Classes","White","Single, never married","Student",0,"CFP",0,1,1
+450,300,100,0,300,"Choice 1 (50,50)",100,100,50,150,22,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",66550,"Reddit",1,0,0
+140,0,0,65,65,"Choice 2 (75, 150)",0,0,75,75,21,"Female","Some University/College Classes","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+300,100,10,50,150,"Choice 1 (50,50)",100,100,50,150,22,"Male","Some University/College Classes","White","Single, never married","Student",10000,"Reddit",1,0,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,10,75,375,21,"Female","University/College Graduate Degree","Hispanic or Latino","Single, never married","Employed for wages",1e+05,"CFP",0,1,0
+455,10,100,95,105,"Choice 1 (50,50)",300,10,50,350,26,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",70000,"Reddit",1,0,1
+138,0,0,63,63,"Choice 2 (75, 150)",0,0,75,75,31,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Unemployed not looking for work",105000,"Reddit",0,1,0
+505,100,300,55,155,"Choice 1 (50,50)",300,100,50,350,19,"Female","Some University/College Classes","Black or African American","Married or domestic partnership","Student",0,"Reddit",1,0,0
+85,0,0,35,35,"Choice 1 (50,50)",0,0,50,50,20,"Male","University/College Diploma","White","Single, never married","Student",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,33,"Male","University/College Undergraduate Degree","White","Divorced","Employed for wages",65000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,33,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",70000,"Reddit",0,1,0
+155,0,0,80,80,"Choice 2 (75, 150)",0,0,75,75,21,"Male","University/College Graduate Degree","White","Single, never married","Student",0,"Reddit",0,1,1
+425,10,10,40,50,"Choice 2 (75, 150)",300,300,75,375,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",30000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,34,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",28000,"Reddit",0,1,0
+325,100,100,50,150,"Choice 2 (75, 150)",100,10,75,175,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,1
+235,10,300,50,60,"Choice 2 (75, 150)",100,10,75,175,17,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+750,300,300,75,375,"Choice 2 (75, 150)",300,300,75,375,24,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",34000,"Reddit",0,1,0
+525,100,10,50,150,"Choice 2 (75, 150)",300,10,75,375,22,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",15000,"Reddit",0,1,0
+245,10,300,60,70,"Choice 2 (75, 150)",100,10,75,175,14,"Male","High School","Hispanic or Latino","Single, never married","Unemployed not looking for work",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,15,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Female","High School","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,0
+120,10,100,50,60,"Choice 1 (50,50)",10,10,50,60,40,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,0
+365,100,300,90,190,"Choice 2 (75, 150)",100,100,75,175,23,"Male","University/College Diploma","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+530,100,10,55,155,"Choice 2 (75, 150)",300,100,75,375,35,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",125000,"Reddit",0,1,1
+151,0,0,76,76,"Choice 2 (75, 150)",0,0,75,75,30,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",90000,"Reddit",0,1,1
+690,300,10,15,315,"Choice 2 (75, 150)",300,300,75,375,20,"Male","Some University/College Classes","White","Single, never married","Student",20000,"Reddit",0,1,1
+95,10,300,0,10,"Choice 2 (75, 150)",10,10,75,85,35,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",170000,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,27,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+435,300,300,50,350,"Choice 2 (75, 150)",10,100,75,85,23,"Male","Some University/College Classes","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+436,300,300,51,351,"Choice 2 (75, 150)",10,100,75,85,36,"Female","University/College Graduate Degree","White","Divorced","Employed for wages",50000,"Reddit",0,1,0
+525,300,100,50,350,"Choice 2 (75, 150)",100,10,75,175,21,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+685,300,100,10,310,"Choice 2 (75, 150)",300,300,75,375,21,"Female","Some University/College Classes","White","Single, never married","Employed for wages",15000,"Reddit",0,1,0
+675,300,100,0,300,"Choice 2 (75, 150)",300,10,75,375,27,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",70000,"CFP",0,1,0
+525,100,100,50,150,"Choice 2 (75, 150)",300,10,75,375,19,"Male","High School","White","Single, never married","Student",0,"CFP",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,37,"Male","Some University/College Classes","Black or African American","Married or domestic partnership","Employed for wages",0,"Reddit",0,1,1
+210,10,100,50,60,"Choice 1 (50,50)",100,100,50,150,46,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",90000,"Reddit",1,0,0
+485,10,300,100,110,"Choice 2 (75, 150)",300,10,75,375,17,"Male","High School","Asian","Single, never married","Unemployed looking for work",0,"CFP",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,40,"Female","University/College Graduate Degree","Hispanic or Latino","Single, never married","Employed for wages",90000,"Reddit",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,30,"Female","University/College Undergraduate Degree","Black or African American","Married or domestic partnership","Employed for wages",55000,"Reddit",1,0,0
+700,300,10,25,325,"Choice 2 (75, 150)",300,100,75,375,19,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+235,10,100,50,60,"Choice 2 (75, 150)",100,10,75,175,18,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,31,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",41000,"Reddit",0,1,1
+76,0,0,1,1,"Choice 2 (75, 150)",0,0,75,75,54,"Male","University/College Diploma","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,1
+130,10,100,60,70,"Choice 1 (50,50)",10,300,50,60,52,"Female","High School","White","Married or domestic partnership","Self-Employed",90000,"Facebook",1,0,0
+235,100,300,50,150,"Choice 2 (75, 150)",10,100,75,85,25,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,26,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Unemployed looking for work",0,"Reddit",0,1,1
+235,100,10,50,150,"Choice 2 (75, 150)",10,10,75,85,18,"Female","High School","White","Single, never married","Employed for wages",0,"CFP",0,1,0
+130,10,300,60,70,"Choice 1 (50,50)",10,100,50,60,18,"Female","Some University/College Classes","Asian","Single, never married","Student",0,"CFP",1,0,0
+500,100,100,50,150,"Choice 1 (50,50)",300,10,50,350,28,"Male","University/College Diploma","White","Single, never married","Employed for wages",60000,"CFP",1,0,1
+170,10,10,75,85,"Choice 2 (75, 150)",10,300,75,85,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",68000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Student",5000,"Reddit",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,10,75,375,25,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Self-Employed",35,"Reddit",0,1,0
+240,10,10,55,65,"Choice 2 (75, 150)",100,10,75,175,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",20000,"Facebook",0,1,0
+325,100,300,50,150,"Choice 2 (75, 150)",100,10,75,175,35,"Male","Some High School Classes","White","Single, never married","Unemployed not looking for work",0,"CFP",0,1,1
+325,100,300,50,150,"Choice 2 (75, 150)",100,10,75,175,24,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Facebook",0,1,0
+435,300,100,50,350,"Choice 2 (75, 150)",10,10,75,85,27,"Female","University/College Diploma","White","Married or domestic partnership","Unemployed not looking for work",70000,"Reddit",0,1,0
+525,100,300,50,150,"Choice 2 (75, 150)",300,100,75,375,19,"Male","Some University/College Classes","White","Single, never married","Student",30000,"CFP",0,1,1
+675,300,300,200,500,"Choice 2 (75, 150)",100,300,75,175,27,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,1
+260,10,10,100,110,"Choice 1 (50,50)",100,300,50,150,20,"Female","Some University/College Classes","White","Single, never married","Student",0,"CFP",1,0,0
+515,300,10,40,340,"Choice 2 (75, 150)",100,100,75,175,21,"Male","Some University/College Classes","White","Single, never married","Student",12000,"Reddit",0,1,1
+475,300,10,0,300,"Choice 2 (75, 150)",100,300,75,175,26,"Male","University/College Graduate Degree","Other","Married or domestic partnership","Employed for wages",35000,"Reddit",0,1,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,26,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",47000,"Reddit",0,1,0
+525,300,300,75,375,"Choice 1 (50,50)",100,100,50,150,35,"Male","University/College Graduate Degree","Asian","Married or domestic partnership","Employed for wages",0,"CFP",1,0,1
+195,10,100,100,110,"Choice 2 (75, 150)",10,300,75,85,24,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",23000,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,27,"Male","University/College Graduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,1
+285,100,300,100,200,"Choice 2 (75, 150)",10,300,75,85,30,"Female","University/College Graduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,0
+300,100,100,50,150,"Choice 1 (50,50)",100,300,50,150,47,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",75000,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,40,"Female","University/College Graduate Degree","Hispanic or Latino","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,0
+475,300,10,0,300,"Choice 2 (75, 150)",100,10,75,175,27,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",45000,"Reddit",0,1,1
+410,300,300,50,350,"Choice 1 (50,50)",10,300,50,60,27,"Male","High School","White","Single, never married","Self-Employed",70000,"Reddit",1,0,1
+145,10,10,50,60,"Choice 2 (75, 150)",10,300,75,85,28,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",75000,"Reddit",0,1,1
+140,0,0,90,90,"Choice 1 (50,50)",0,0,50,50,34,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",1,0,1
+725,300,100,50,350,"Choice 2 (75, 150)",300,10,75,375,19,"Male","Some University/College Classes","White","Single, never married","Student",225,"Reddit",0,1,1
+210,100,300,50,150,"Choice 1 (50,50)",10,100,50,60,24,"Female","High School","White","Single, never married","Employed for wages",3000,"Reddit",1,0,0
+75,0,0,0,0,"Choice 2 (75, 150)",0,0,75,75,21,"Male","Some University/College Classes","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+210,100,100,50,150,"Choice 1 (50,50)",10,300,50,60,37,"Male","University/College Graduate Degree","White","Married or domestic partnership","Unemployed looking for work",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,20,"Female","Some University/College Classes","White","Single, never married","Employed for wages",50000,"Reddit",0,1,0
+500,100,300,50,150,"Choice 1 (50,50)",300,300,50,350,19,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+500,100,10,50,150,"Choice 1 (50,50)",300,10,50,350,23,"Female","Some University/College Classes","Black or African American","Married or domestic partnership","Employed for wages",74999,"Reddit",1,0,0
+484,10,300,99,109,"Choice 2 (75, 150)",300,100,75,375,20,"Female","University/College Undergraduate Degree","White","Single, never married","Student",26000,"Reddit",0,1,0
+95,10,10,0,10,"Choice 2 (75, 150)",10,100,75,85,16,"Prefer Not To Disclose","Some High School Classes","Prefer Not To Disclose","Single, never married","Student",0,"Reddit",0,1,0
+726,300,300,51,351,"Choice 2 (75, 150)",300,300,75,375,25,"Male","University/College Graduate Degree","White","Single, never married","Student",29000,"Reddit",0,1,1
+126,0,0,51,51,"Choice 2 (75, 150)",0,0,75,75,27,"Female","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",185000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Male","Some University/College Classes","White","Single, never married","Employed for wages",30000,"Reddit",0,1,1
+220,100,10,60,160,"Choice 1 (50,50)",10,10,50,60,19,"Male","Some University/College Classes","White","Single, never married","Student",20000,"Reddit",1,0,1
+410,10,300,50,60,"Choice 1 (50,50)",300,300,50,350,21,"Male","Some University/College Classes","White","Single, never married","Student",15000,"Reddit",1,0,1
+265,100,100,80,180,"Choice 2 (75, 150)",10,10,75,85,24,"Male","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",70000,"Reddit",0,1,1
+235,100,300,50,150,"Choice 2 (75, 150)",10,10,75,85,28,"Female","University/College Undergraduate Degree","Hispanic or Latino","Married or domestic partnership","Employed for wages",38000,"Reddit",0,1,0
+500,300,300,50,350,"Choice 1 (50,50)",100,100,50,150,24,"Male","University/College Undergraduate Degree","White","Other","Employed for wages",38000,"Reddit",1,0,1
+260,100,300,100,200,"Choice 1 (50,50)",10,300,50,60,24,"Female","University/College Graduate Degree","Hispanic or Latino","Single, never married","Unemployed looking for work",0,"Facebook",1,0,0
+235,10,100,50,60,"Choice 2 (75, 150)",100,100,75,175,28,"Female","Some University/College Classes","White","Separated","Employed for wages",0,"Reddit",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,20,"Female","University/College Undergraduate Degree","Pacific Islander","Single, never married","Employed for wages",6000,"Reddit",1,0,0
+125,0,0,75,75,"Choice 1 (50,50)",0,0,50,50,18,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+140,10,300,70,80,"Choice 1 (50,50)",10,300,50,60,19,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Student",11,"Reddit",1,0,1
+105,0,0,55,55,"Choice 1 (50,50)",0,0,50,50,29,"Male","University/College Undergraduate Degree","Other","Married or domestic partnership","Employed for wages",70000,"Reddit",1,0,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,300,75,375,31,"Male","Some University/College Classes","White","Single, never married","Employed for wages",13500,"Reddit",0,1,1
+259,10,10,99,109,"Choice 1 (50,50)",100,10,50,150,25,"Male","University/College Diploma","Asian","Single, never married","Student",0,"Reddit",1,0,1
+210,100,100,50,150,"Choice 1 (50,50)",10,100,50,60,39,"Male","University/College Diploma","White","Married or domestic partnership","Self-Employed",3500,"CFP",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,42,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",365000,"Reddit",0,1,1
+155,10,100,60,70,"Choice 2 (75, 150)",10,300,75,85,29,"Female","Some University/College Classes","White","Divorced","Unemployed looking for work",0,"Reddit",0,1,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,10,75,375,25,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",30400,"Facebook",0,1,0
+435,300,10,50,350,"Choice 2 (75, 150)",10,100,75,85,38,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",60000,"CFP",0,1,1
+538,100,300,63,163,"Choice 2 (75, 150)",300,100,75,375,17,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,75,75,"Choice 1 (50,50)",0,0,50,50,26,"Male","University/College Graduate Degree","White","Married or domestic partnership","Student",30000,"Reddit",1,0,1
+525,100,300,50,150,"Choice 2 (75, 150)",300,100,75,375,19,"Female","Some University/College Classes","White","Single, never married","Student",1800,"Reddit",0,1,0
+435,300,10,50,350,"Choice 2 (75, 150)",10,10,75,85,20,"Male","Some University/College Classes","Asian","Married or domestic partnership","Student",7000,"Reddit",0,1,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,25,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",50000,"Reddit",0,1,1
+285,10,300,100,110,"Choice 2 (75, 150)",100,100,75,175,32,"Female","University/College Graduate Degree","Asian","Married or domestic partnership","Employed for wages",38000,"Reddit",0,1,0
+285,100,300,100,200,"Choice 2 (75, 150)",10,10,75,85,28,"Male","Some University/College Classes","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+454,300,100,69,369,"Choice 2 (75, 150)",10,300,75,85,21,"Male","Some University/College Classes","White","Married or domestic partnership","Military",84000,"Reddit",0,1,1
+575,100,300,100,200,"Choice 2 (75, 150)",300,300,75,375,18,"Male","High School","White","Single, never married","Student",3000,"Reddit",0,1,1
+300,100,10,50,150,"Choice 1 (50,50)",100,100,50,150,33,"Other","University/College Diploma","White","Divorced","Student",0,"CFP",1,0,0
+235,10,300,50,60,"Choice 2 (75, 150)",100,300,75,175,16,"Male","Some High School Classes","White","Single, never married","Student",2200,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,31,"Male","Some University/College Classes","White","Married or domestic partnership","Student",10000,"Reddit",0,1,1
+525,300,300,50,350,"Choice 2 (75, 150)",100,10,75,175,29,"Male","University/College Undergraduate Degree","White","Single, never married","Student",20000,"Reddit",0,1,1
+455,10,100,70,80,"Choice 2 (75, 150)",300,10,75,375,23,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",30000,"Reddit",0,1,0
+120,10,300,50,60,"Choice 1 (50,50)",10,10,50,60,49,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",75000,"Reddit",1,0,0
+300,100,100,50,150,"Choice 1 (50,50)",100,10,50,150,48,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",70000,"CFP",1,0,1
+235,10,300,50,60,"Choice 2 (75, 150)",100,100,75,175,21,"Female","Some University/College Classes","White","Married or domestic partnership","Student",12000,"Reddit",0,1,0
+436,300,100,51,351,"Choice 2 (75, 150)",10,100,75,85,25,"Female","University/College Diploma","White","Single, never married","Employed for wages",71000,"Reddit",0,1,0
+235,10,300,50,60,"Choice 2 (75, 150)",100,10,75,175,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",21000,"Reddit",0,1,0
+325,100,100,50,150,"Choice 2 (75, 150)",100,100,75,175,25,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Student",12000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,23,"Female","University/College Undergraduate Degree","Hispanic or Latino","Other","Employed for wages",0,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",81500,"Reddit",0,1,1
+350,100,100,100,200,"Choice 1 (50,50)",100,300,50,150,39,"Female","University/College Graduate Degree","White","Divorced","Self-Employed",20000,"Reddit",1,0,0
+575,100,300,100,200,"Choice 2 (75, 150)",300,300,75,375,22,"Female","University/College Undergraduate Degree","Black or African American","Single, never married","Student",0,"CFP",0,1,0
+120,10,300,50,60,"Choice 1 (50,50)",10,10,50,60,21,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",25000,"Reddit",1,0,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,26,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Facebook",0,1,0
+150,0,0,75,75,"Choice 2 (75, 150)",0,0,75,75,19,"Female","High School","Asian","Single, never married","Student",0,"Reddit",0,1,0
+525,100,10,50,150,"Choice 2 (75, 150)",300,300,75,375,50,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",90000,"Reddit",0,1,0
+195,10,300,100,110,"Choice 2 (75, 150)",10,300,75,85,25,"Female","University/College Graduate Degree","White","Single, never married","Unemployed looking for work",0,"CFP",0,1,0
+170,10,300,100,110,"Choice 1 (50,50)",10,10,50,60,24,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Self-Employed",0,"Reddit",1,0,1
+195,10,10,100,110,"Choice 2 (75, 150)",10,300,75,85,30,"Male","University/College Undergraduate Degree","Prefer Not To Disclose","Married or domestic partnership","Employed for wages",40900,"Reddit",0,1,1
+255,10,100,95,105,"Choice 1 (50,50)",100,100,50,150,23,"Other","Some University/College Classes","White","Single, never married","Student",0,"CFP",1,0,0
+660,300,10,10,310,"Choice 1 (50,50)",300,300,50,350,19,"Male","Some University/College Classes","Asian","Single, never married","Unemployed looking for work",0,"Reddit",1,0,1
+435,10,10,50,60,"Choice 2 (75, 150)",300,10,75,375,28,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed not looking for work",0,"CFP",0,1,1
+725,300,10,50,350,"Choice 2 (75, 150)",300,300,75,375,19,"Female","Some University/College Classes","White","Single, never married","Employed for wages",4000,"Reddit",0,1,0
+205,100,100,45,145,"Choice 1 (50,50)",10,10,50,60,23,"Other","Other","Other","Other","Other",0,"Reddit",1,0,0
+150,0,0,75,75,"Choice 2 (75, 150)",0,0,75,75,21,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,0
+300,100,10,50,150,"Choice 1 (50,50)",100,300,50,150,42,"Male","Some University/College Classes","White","Single, never married","Employed for wages",0,"CFP",1,0,1
+460,10,10,75,85,"Choice 2 (75, 150)",300,10,75,375,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",9974,"Facebook",0,1,1
+575,300,100,100,400,"Choice 2 (75, 150)",100,10,75,175,16,"Male","High School","White","Single, never married","Student",0,"CFP",0,1,1
+575,100,100,100,200,"Choice 2 (75, 150)",300,300,75,375,20,"Male","Some University/College Classes","White","Single, never married","Student",20000,"CFP",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Male","High School","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+170,10,10,75,85,"Choice 2 (75, 150)",10,100,75,85,26,"Male","University/College Undergraduate Degree","Black or African American","Married or domestic partnership","Student",0,"Reddit",0,1,1
+195,10,10,10,20,"Choice 2 (75, 150)",100,100,75,175,22,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",42000,"Reddit",0,1,1
+335,100,300,60,160,"Choice 2 (75, 150)",100,10,75,175,63,"Male","University/College Diploma","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+76,0,0,1,1,"Choice 2 (75, 150)",0,0,75,75,36,"Prefer Not To Disclose","University/College Graduate Degree","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose",0,"Reddit",0,1,0
+120,10,100,50,60,"Choice 1 (50,50)",10,100,50,60,22,"Female","University/College Undergraduate Degree","Hispanic or Latino","Single, never married","Employed for wages",450000,"Reddit",1,0,0
+625,300,300,150,450,"Choice 2 (75, 150)",100,100,75,175,28,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",63000,"Reddit",0,1,0
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,17,"Female","High School","White","Single, never married","Student",0,"Reddit",0,1,0
+240,10,10,55,65,"Choice 2 (75, 150)",100,300,75,175,20,"Male","Some University/College Classes","White","Single, never married","Student",24000,"Reddit",0,1,1
+285,10,100,100,110,"Choice 2 (75, 150)",100,10,75,175,35,"Female","University/College Undergraduate Degree","Black or African American","Single, never married","Employed for wages",35000,"Reddit",0,1,0
+150,0,0,100,100,"Choice 1 (50,50)",0,0,50,50,15,"Male","Some High School Classes","Asian","Single, never married","Student",4,"Reddit",1,0,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,25,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+235,10,100,50,60,"Choice 2 (75, 150)",100,100,75,175,34,"Other","University/College Graduate Degree","White","Separated","Employed for wages",80000,"Reddit",0,1,0
+420,300,10,60,360,"Choice 1 (50,50)",10,10,50,60,51,"Female","University/College Diploma","Other","Prefer Not To Disclose","Unable to work",0,"Reddit",1,0,0
+240,100,10,55,155,"Choice 2 (75, 150)",10,10,75,85,30,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,0
+385,300,10,25,325,"Choice 1 (50,50)",10,10,50,60,23,"Female","University/College Graduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",1,0,0
+280,10,100,95,105,"Choice 2 (75, 150)",100,10,75,175,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",18000,"CFP",0,1,0
+170,10,100,75,85,"Choice 2 (75, 150)",10,100,75,85,30,"Male","High School","White","Single, never married","Employed for wages",20000,"Reddit",0,1,1
+100,0,0,25,25,"Choice 2 (75, 150)",0,0,75,75,29,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",20000,"Reddit",0,1,1
+385,300,300,0,300,"Choice 2 (75, 150)",10,100,75,85,32,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"CFP",0,1,1
+165,10,100,70,80,"Choice 2 (75, 150)",10,300,75,85,25,"Female","University/College Graduate Degree","White","Single, never married","Unemployed looking for work",12000,"Facebook",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,18,"Female","Some University/College Classes","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,0
+115,0,0,40,40,"Choice 2 (75, 150)",0,0,75,75,19,"Male","Some University/College Classes","White","Single, never married","Employed for wages",29000,"Reddit",0,1,1
+435,10,10,50,60,"Choice 2 (75, 150)",300,300,75,375,31,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",0,1,0
+115,0,0,65,65,"Choice 1 (50,50)",0,0,50,50,21,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,26,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",90000,"Reddit",0,1,0
+525,100,300,50,150,"Choice 2 (75, 150)",300,100,75,375,23,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",67000,"Reddit",0,1,0
+650,300,100,0,300,"Choice 1 (50,50)",300,100,50,350,57,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",160000,"Reddit",1,0,1
+300,100,100,50,150,"Choice 1 (50,50)",100,100,50,150,44,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",140000,"Reddit",1,0,1
+435,300,100,50,350,"Choice 2 (75, 150)",10,100,75,85,30,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",60000,"Reddit",0,1,0
+375,100,100,100,200,"Choice 2 (75, 150)",100,10,75,175,44,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",3e+05,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,30,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",50000,"Reddit",1,0,1
+150,0,0,75,75,"Choice 2 (75, 150)",0,0,75,75,30,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,100,75,375,15,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+725,300,100,50,350,"Choice 2 (75, 150)",300,100,75,375,34,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Self-Employed",0,"Reddit",0,1,1
+370,300,10,10,310,"Choice 1 (50,50)",10,100,50,60,25,"Female","Some University/College Classes","White","Single, never married","Employed for wages",13000,"Reddit",1,0,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,10,75,375,25,"Female","Some University/College Classes","White","Single, never married","Unemployed not looking for work",0,"Reddit",0,1,0
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,36,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",0,1,0
+445,10,10,60,70,"Choice 2 (75, 150)",300,100,75,375,21,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,25,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",1,0,1
+650,300,100,0,300,"Choice 1 (50,50)",300,100,50,350,17,"Male","High School","White","Single, never married","Employed for wages",1200,"Reddit",1,0,1
+755,300,100,80,380,"Choice 2 (75, 150)",300,300,75,375,23,"Male","University/College Undergraduate Degree","White","Single, never married","Student",11000,"Facebook",0,1,1
+140,0,0,65,65,"Choice 2 (75, 150)",0,0,75,75,29,"Other","University/College Graduate Degree","White","Single, never married","Self-Employed",65000,"Reddit",0,1,0
+300,100,10,50,150,"Choice 1 (50,50)",100,10,50,150,17,"Prefer Not To Disclose","Some High School Classes","Other","Married or domestic partnership","Student",0,"Reddit",1,0,0
+635,300,10,250,550,"Choice 2 (75, 150)",10,100,75,85,26,"Male","University/College Diploma","White","Single, never married","Self-Employed",80000,"Reddit",0,1,1
+525,300,100,50,350,"Choice 2 (75, 150)",100,300,75,175,51,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",155000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,23,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+355,100,10,80,180,"Choice 2 (75, 150)",100,10,75,175,23,"Female","University/College Undergraduate Degree","Asian","Single, never married","Student",27000,"Reddit",0,1,0
+435,300,10,75,375,"Choice 1 (50,50)",10,300,50,60,18,"Male","High School","Asian","Single, never married","Student",32000,"Reddit",1,0,1
+435,10,300,50,60,"Choice 2 (75, 150)",300,10,75,375,24,"Female","University/College Graduate Degree","White","Married or domestic partnership","Student",15000,"Reddit",0,1,0
+410,10,300,50,60,"Choice 1 (50,50)",300,300,50,350,20,"Female","Some University/College Classes","Other","Single, never married","Student",2300,"Reddit",1,0,0
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,29,"Male","University/College Graduate Degree","Prefer Not To Disclose","Single, never married","Student",25000,"Reddit",0,1,1
+75,0,0,0,0,"Choice 2 (75, 150)",0,0,75,75,20,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,300,75,375,26,"Other","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,0
+175,100,10,15,115,"Choice 1 (50,50)",10,300,50,60,23,"Male","University/College Undergraduate Degree","Asian","Single, never married","Student",7000,"Reddit",1,0,1
+485,300,100,100,400,"Choice 2 (75, 150)",10,300,75,85,30,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",80000,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,26,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",105000,"Reddit",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,19,"Female","Some University/College Classes","White","Single, never married","Student",20000,"Reddit",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,19,"Female","High School","White","Single, never married","Student",0,"Reddit",1,0,0
+265,10,100,80,90,"Choice 2 (75, 150)",100,100,75,175,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",45000,"Reddit",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,25,"Male","High School","White","Single, never married","Unable to work",0,"Reddit",1,0,1
+550,300,300,100,400,"Choice 1 (50,50)",100,300,50,150,18,"Female","Some University/College Classes","White","Single, never married","Employed for wages",9600,"Reddit",1,0,0
+109,0,0,59,59,"Choice 1 (50,50)",0,0,50,50,28,"Female","University/College Diploma","White","Single, never married","Employed for wages",18000,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,20,"Male","Some University/College Classes","White","Single, never married","Student",12000,"Reddit",0,1,1
+435,10,300,50,60,"Choice 2 (75, 150)",300,300,75,375,30,"Prefer Not To Disclose","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,0
+195,10,300,100,110,"Choice 2 (75, 150)",10,300,75,85,22,"Female","University/College Diploma","White","Single, never married","Employed for wages",15000,"Reddit",0,1,0
+575,0,0,500,500,"Choice 2 (75, 150)",0,0,75,75,125,"Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose",125,"Reddit",0,1,0
+460,10,10,100,110,"Choice 1 (50,50)",300,300,50,350,35,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",150000,"Reddit",1,0,1
+115,0,0,65,65,"Choice 1 (50,50)",0,0,50,50,27,"Female","University/College Graduate Degree","White","Married or domestic partnership","Student",26000,"Reddit",1,0,0
+126,0,0,51,51,"Choice 2 (75, 150)",0,0,75,75,15,"Female","High School","Asian","Single, never married","Student",0,"Reddit",0,1,0
+173,0,0,98,98,"Choice 2 (75, 150)",0,0,75,75,27,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+475,10,300,90,100,"Choice 2 (75, 150)",300,300,75,375,26,"Male","Some University/College Classes","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+475,100,300,0,100,"Choice 2 (75, 150)",300,300,75,375,28,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",0,1,1
+515,300,100,40,340,"Choice 2 (75, 150)",100,10,75,175,16,"Female","Some High School Classes","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,0
+375,100,300,100,200,"Choice 2 (75, 150)",100,300,75,175,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",26000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,30,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",180000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,16,"Male","Some High School Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+195,10,300,100,110,"Choice 2 (75, 150)",10,10,75,85,18,"Male","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,20,"Female","Some University/College Classes","White","Single, never married","Student",500,"Reddit",0,1,0
+725,300,300,50,350,"Choice 2 (75, 150)",300,100,75,375,27,"Male","High School","White","Single, never married","Employed for wages",34000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,19,"Female","Some University/College Classes","White","Single, never married","Employed for wages",15000,"Reddit",0,1,0
+245,100,10,60,160,"Choice 2 (75, 150)",10,300,75,85,38,"Male","University/College Graduate Degree","White","Single, never married","Self-Employed",0,"Reddit",0,1,1
+300,100,100,50,150,"Choice 1 (50,50)",100,300,50,150,28,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,0
+149,0,0,99,99,"Choice 1 (50,50)",0,0,50,50,17,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+480,10,100,95,105,"Choice 2 (75, 150)",300,100,75,375,18,"Male","Other","White","Single, never married","Student",0,"Reddit",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,24,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,18,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+101,0,0,51,51,"Choice 1 (50,50)",0,0,50,50,29,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",58000,"Reddit",1,0,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,100,75,375,26,"Male","University/College Graduate Degree","White","Single, never married","Student",30000,"Reddit",0,1,1
+500,300,100,50,350,"Choice 1 (50,50)",100,100,50,150,32,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",85000,"Reddit",1,0,0
+425,10,100,40,50,"Choice 2 (75, 150)",300,100,75,375,23,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",61500,"Reddit",0,1,1
+515,100,100,40,140,"Choice 2 (75, 150)",300,100,75,375,35,"Male","University/College Diploma","White","Married or domestic partnership","Prefer Not To Disclose",0,"Reddit",0,1,1
+235,100,10,50,150,"Choice 2 (75, 150)",10,100,75,85,34,"Female","University/College Diploma","White","Married or domestic partnership","Self-Employed",30000,"Reddit",0,1,0
+235,10,300,50,60,"Choice 2 (75, 150)",100,10,75,175,21,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",18000,"Reddit",0,1,1
+725,300,10,50,350,"Choice 2 (75, 150)",300,100,75,375,38,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Self-Employed",120000,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,18,"Male","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,300,75,375,28,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",80000,"Reddit",0,1,0
+525,100,300,50,150,"Choice 2 (75, 150)",300,10,75,375,26,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",0,1,0
+170,10,10,100,110,"Choice 1 (50,50)",10,100,50,60,33,"Male","University/College Graduate Degree","Asian","Married or domestic partnership","Student",0,"Facebook",1,0,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,50,"Male","Other","White","Married or domestic partnership","Retired",0,"Reddit",0,1,1
+285,100,100,100,200,"Choice 2 (75, 150)",10,300,75,85,25,"Male","University/College Graduate Degree","Arab or Middle Eastern","Single, never married","Employed for wages",42500,"Reddit",0,1,1
+120,10,10,50,60,"Choice 1 (50,50)",10,10,50,60,32,"Male","University/College Graduate Degree","White","Single, never married","Self-Employed",0,"Reddit",1,0,1
+325,100,100,50,150,"Choice 2 (75, 150)",100,10,75,175,17,"Female","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+195,10,300,100,110,"Choice 2 (75, 150)",10,100,75,85,17,"Female","Some High School Classes","Hispanic or Latino","Single, never married","Employed for wages",12000,"Reddit",0,1,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,10,75,175,18,"Male","High School","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,1
+415,300,300,30,330,"Choice 2 (75, 150)",10,100,75,85,23,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",34000,"Reddit",0,1,1
+725,300,100,50,350,"Choice 2 (75, 150)",300,300,75,375,29,"Female","Some University/College Classes","White","Divorced","Employed for wages",55000,"Reddit",0,1,0
+145,10,100,50,60,"Choice 2 (75, 150)",10,10,75,85,24,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",18000,"Reddit",0,1,0
+460,300,10,100,400,"Choice 1 (50,50)",10,100,50,60,23,"Male","University/College Undergraduate Degree","Black or African American","Single, never married","Student",10000,"Facebook",1,0,1
+410,300,10,25,325,"Choice 2 (75, 150)",10,300,75,85,28,"Male","University/College Graduate Degree","White","Single, never married","Self-Employed",30000,"Reddit",0,1,1
+460,10,10,100,110,"Choice 1 (50,50)",300,10,50,350,21,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",1,0,1
+525,300,100,50,350,"Choice 2 (75, 150)",100,100,75,175,30,"Other","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,23,"Male","University/College Diploma","Hispanic or Latino","Married or domestic partnership","Student",0,"Reddit",0,1,1
+285,100,100,100,200,"Choice 2 (75, 150)",10,300,75,85,20,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+145,10,10,50,60,"Choice 2 (75, 150)",10,300,75,85,21,"Female","High School","White","Single, never married","Employed for wages",20000,"Reddit",0,1,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,100,75,175,35,"Female","Some University/College Classes","White","Married or domestic partnership","Unemployed not looking for work",60000,"Reddit",0,1,0
+485,10,100,100,110,"Choice 2 (75, 150)",300,300,75,375,54,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Retired",40000,"Reddit",0,1,1
+210,100,300,50,150,"Choice 1 (50,50)",10,300,50,60,36,"Female","University/College Graduate Degree","White","Divorced","Employed for wages",85000,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,22,"Male","University/College Graduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+410,10,10,50,60,"Choice 1 (50,50)",300,10,50,350,37,"Female","Some High School Classes","White","Divorced","Unable to work",40000,"Reddit",1,0,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,42,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",0,"Reddit",0,1,0
+215,10,100,55,65,"Choice 1 (50,50)",100,100,50,150,18,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+435,10,10,50,60,"Choice 2 (75, 150)",300,300,75,375,27,"Female","University/College Graduate Degree","Asian","Married or domestic partnership","Student",50000,"Facebook",0,1,0
+475,300,100,0,300,"Choice 2 (75, 150)",100,10,75,175,53,"Male","Some University/College Classes","White","Single, never married","Employed for wages",50000,"Reddit",0,1,1
+435,300,100,50,350,"Choice 2 (75, 150)",10,10,75,85,43,"Female","University/College Undergraduate Degree","Hispanic or Latino","Married or domestic partnership","Employed for wages",45000,"Facebook",0,1,0
+700,300,300,50,350,"Choice 1 (50,50)",300,300,50,350,19,"Female","High School","White","Single, never married","Employed for wages",10000,"Reddit",1,0,0
+235,100,300,50,150,"Choice 2 (75, 150)",10,300,75,85,19,"Female","Some University/College Classes","White","Single, never married","Student",2400,"Reddit",0,1,0
+120,10,300,50,60,"Choice 1 (50,50)",10,10,50,60,31,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Self-Employed",23000,"Reddit",1,0,0
+190,10,100,95,105,"Choice 2 (75, 150)",10,10,75,85,28,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",90000,"Reddit",0,1,1
+500,100,10,50,150,"Choice 1 (50,50)",300,300,50,350,72,"Male","University/College Graduate Degree","White","Married or domestic partnership","Retired",150000,"Facebook",1,0,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,30,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",122000,"Reddit",1,0,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,100,75,175,18,"Male","Some University/College Classes","Hispanic or Latino","Other","Student",0,"Reddit",0,1,1
+525,300,300,50,350,"Choice 2 (75, 150)",100,100,75,175,20,"Male","University/College Diploma","White","Single, never married","Student",17000,"Reddit",0,1,1
+345,100,300,70,170,"Choice 2 (75, 150)",100,100,75,175,25,"Male","University/College Graduate Degree","White","Single, never married","Student",12000,"Facebook",0,1,1
+195,10,300,100,110,"Choice 2 (75, 150)",10,300,75,85,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",20000,"Reddit",0,1,1
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,13,"Prefer Not To Disclose","Other","Prefer Not To Disclose","Prefer Not To Disclose","Prefer Not To Disclose",0,"Reddit",0,1,0
+360,300,100,0,300,"Choice 1 (50,50)",10,100,50,60,25,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",1,0,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,31,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",65000,"Reddit",0,1,1
+235,100,100,50,150,"Choice 2 (75, 150)",10,10,75,85,29,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",38000,"Reddit",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,10,75,375,15,"Female","Some High School Classes","Asian","Single, never married","Student",0,"Reddit",0,1,0
+755,300,10,80,380,"Choice 2 (75, 150)",300,300,75,375,18,"Female","High School","White","Single, never married","Student",0,"Reddit",0,1,0
+775,300,100,100,400,"Choice 2 (75, 150)",300,300,75,375,18,"Male","High School","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,1
+410,300,300,50,350,"Choice 1 (50,50)",10,100,50,60,55,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",140000,"Reddit",1,0,1
+726,300,10,51,351,"Choice 2 (75, 150)",300,300,75,375,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",20000,"Reddit",0,1,1
+300,100,300,50,150,"Choice 1 (50,50)",100,100,50,150,24,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",1,0,1
+549,100,100,99,199,"Choice 1 (50,50)",300,10,50,350,27,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Unemployed looking for work",0,"Reddit",1,0,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,100,75,375,24,"Male","University/College Graduate Degree","Asian","Married or domestic partnership","Student",22000,"Facebook",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,21,"Male","University/College Undergraduate Degree","Asian","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,19,"Male","High School","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+410,10,10,50,60,"Choice 1 (50,50)",300,300,50,350,36,"Male","Some University/College Classes","White","Married or domestic partnership","Employed for wages",0,"Reddit",1,0,1
+465,10,10,80,90,"Choice 2 (75, 150)",300,100,75,375,18,"Female","High School","White","Single, never married","Student",0,"Reddit",0,1,0
+145,10,10,50,60,"Choice 2 (75, 150)",10,300,75,85,31,"Male","University/College Diploma","White","Married or domestic partnership","Employed for wages",55000,"Reddit",0,1,1
+121,10,300,51,61,"Choice 1 (50,50)",10,10,50,60,38,"Male","Some University/College Classes","White","Single, never married","Unemployed looking for work",0,"Reddit",1,0,1
+150,0,0,75,75,"Choice 2 (75, 150)",0,0,75,75,18,"Female","High School","Black or African American","Single, never married","Student",0,"Reddit",0,1,0
+150,0,0,100,100,"Choice 1 (50,50)",0,0,50,50,44,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",42000,"Reddit",1,0,0
+410,300,300,50,350,"Choice 1 (50,50)",10,300,50,60,24,"Male","Some University/College Classes","White","Single, never married","Employed for wages",27000,"Reddit",1,0,1
+210,100,100,50,150,"Choice 1 (50,50)",10,100,50,60,25,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Self-Employed",10000,"Reddit",1,0,0
+160,10,100,90,100,"Choice 1 (50,50)",10,10,50,60,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",24000,"Reddit",1,0,1
+145,0,0,70,70,"Choice 2 (75, 150)",0,0,75,75,24,"Male","University/College Undergraduate Degree","White","Other","Student",7500,"Reddit",0,1,1
+285,10,300,100,110,"Choice 2 (75, 150)",100,10,75,175,34,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",55000,"Reddit",0,1,0
+650,300,10,0,300,"Choice 1 (50,50)",300,300,50,350,18,"Female","University/College Diploma","White","Married or domestic partnership","Student",0,"Reddit",1,0,0
+110,0,0,60,60,"Choice 1 (50,50)",0,0,50,50,24,"Male","Some University/College Classes","Black or African American","Single, never married","Unemployed looking for work",0,"Reddit",1,0,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,16,"Male","High School","White","Single, never married","Student",0,"Reddit",1,0,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,26,"Male","University/College Graduate Degree","White","Single, never married","Student",30000,"Reddit",0,1,1
+775,300,300,100,400,"Choice 2 (75, 150)",300,100,75,375,22,"Male","Some University/College Classes","White","Single, never married","Student",10000,"Reddit",0,1,1
+525,100,10,50,150,"Choice 2 (75, 150)",300,300,75,375,18,"Male","Other","White","Single, never married","Student",0,"Reddit",0,1,1
+210,10,100,50,60,"Choice 1 (50,50)",100,10,50,150,27,"Male","University/College Graduate Degree","Hispanic or Latino","Single, never married","Student",20000,"Reddit",1,0,1
+124,0,0,49,49,"Choice 2 (75, 150)",0,0,75,75,24,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",21000,"Reddit",0,1,0
+485,300,10,100,400,"Choice 2 (75, 150)",10,100,75,85,15,"Female","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Male","High School","White","Single, never married","Student",5000,"Reddit",0,1,1
+485,10,10,100,110,"Choice 2 (75, 150)",300,100,75,375,22,"Other","University/College Undergraduate Degree","White","Single, never married","Employed for wages",16000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,24,"Male","Some University/College Classes","White","Single, never married","Self-Employed",20000,"Reddit",0,1,1
+135,0,0,60,60,"Choice 2 (75, 150)",0,0,75,75,40,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",170000,"Reddit",0,1,0
+285,100,10,100,200,"Choice 2 (75, 150)",10,10,75,85,29,"Male","Prefer Not To Disclose","White","Prefer Not To Disclose","Prefer Not To Disclose",0,"Reddit",0,1,1
+445,300,100,60,360,"Choice 2 (75, 150)",10,100,75,85,22,"Male","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,1
+235,10,10,50,60,"Choice 2 (75, 150)",100,10,75,175,18,"Male","High School","White","Single, never married","Employed for wages",25000,"Reddit",0,1,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,29,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",115000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,23,"Male","Some University/College Classes","White","Prefer Not To Disclose","Self-Employed",60000,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,14,"Male","Some High School Classes","White","Single, never married","Unable to work",0,"Reddit",0,1,1
+475,300,100,0,300,"Choice 2 (75, 150)",100,100,75,175,25,"Male","University/College Graduate Degree","Other","Single, never married","Employed for wages",56000,"Reddit",0,1,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,300,75,375,18,"Female","Some University/College Classes","White","Single, never married","Unemployed not looking for work",0,"Reddit",0,1,0
+235,10,100,50,60,"Choice 2 (75, 150)",100,300,75,175,25,"Male","Some University/College Classes","White","Single, never married","Employed for wages",33000,"Reddit",0,1,1
+525,100,100,50,150,"Choice 2 (75, 150)",300,10,75,375,30,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",35000,"Reddit",0,1,0
+435,300,300,50,350,"Choice 2 (75, 150)",10,10,75,85,20,"Male","High School","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+422,300,300,37,337,"Choice 2 (75, 150)",10,100,75,85,30,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",37000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",44000,"Reddit",0,1,1
+345,100,300,70,170,"Choice 2 (75, 150)",100,100,75,175,29,"Female","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,39,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",48000,"Reddit",0,1,1
+540,100,10,90,190,"Choice 1 (50,50)",300,100,50,350,41,"Female","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",2e+05,"Reddit",1,0,0
+280,10,100,95,105,"Choice 2 (75, 150)",100,10,75,175,19,"Male","Some University/College Classes","White","Single, never married","Student",7000,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,25,"Female","University/College Diploma","White","Single, never married","Employed for wages",0,"Reddit",1,0,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,18,"Female","High School","Pacific Islander","Single, never married","Employed for wages",0,"Reddit",1,0,0
+500,300,300,50,350,"Choice 1 (50,50)",100,100,50,150,24,"Female","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",1,0,0
+550,100,300,75,175,"Choice 2 (75, 150)",300,10,75,375,61,"Female","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",150000,"Reddit",0,1,0
+325,100,10,50,150,"Choice 2 (75, 150)",100,100,75,175,22,"Male","Some University/College Classes","White","Married or domestic partnership","Student",3009,"Reddit",0,1,1
+525,300,300,50,350,"Choice 2 (75, 150)",100,10,75,175,24,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",80000,"Reddit",0,1,1
+145,0,0,95,95,"Choice 1 (50,50)",0,0,50,50,26,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",1,0,1
+485,300,10,100,400,"Choice 2 (75, 150)",10,10,75,85,17,"Male","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,20,"Other","Some University/College Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,14,"Female","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+235,10,10,50,60,"Choice 2 (75, 150)",100,300,75,175,18,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",120000,"Reddit",0,1,0
+375,100,100,100,200,"Choice 2 (75, 150)",100,300,75,175,36,"Male","University/College Undergraduate Degree","Other","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,22,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",67000,"Reddit",0,1,0
+435,10,100,50,60,"Choice 2 (75, 150)",300,100,75,375,31,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",38722,"Reddit",0,1,1
+115,0,0,40,40,"Choice 2 (75, 150)",0,0,75,75,16,"Male","High School","White","Single, never married","Employed for wages",1500,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,28,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,20,"Male","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+725,300,100,50,350,"Choice 2 (75, 150)",300,10,75,375,44,"Other","University/College Undergraduate Degree","White","Single, never married","Unable to work",17000,"Reddit",0,1,0
+145,10,10,50,60,"Choice 2 (75, 150)",10,10,75,85,16,"Female","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,10,75,375,21,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,1
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,25,"Female","University/College Graduate Degree","White","Single, never married","Student",20000,"Reddit",1,0,0
+235,10,100,50,60,"Choice 2 (75, 150)",100,300,75,175,27,"Female","University/College Undergraduate Degree","White","Other","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,16,"Female","High School","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,0
+435,10,300,50,60,"Choice 2 (75, 150)",300,100,75,375,30,"Female","University/College Diploma","White","Married or domestic partnership","Employed for wages",63000,"Reddit",0,1,0
+175,0,0,100,100,"Choice 2 (75, 150)",0,0,75,75,29,"Female","University/College Graduate Degree","Asian","Single, never married","Employed for wages",0,"Reddit",0,1,0
+725,300,300,50,350,"Choice 2 (75, 150)",300,10,75,375,23,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",2e+05,"Reddit",0,1,1
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,25,"Female","University/College Graduate Degree","Hispanic or Latino","Married or domestic partnership","Self-Employed",0,"Reddit",0,1,0
+485,300,100,100,400,"Choice 2 (75, 150)",10,10,75,85,20,"Male","Some University/College Classes","White","Single, never married","Employed for wages",12000,"Reddit",0,1,1
+410,300,10,25,325,"Choice 2 (75, 150)",10,100,75,85,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",30000,"Reddit",0,1,0
+100,0,0,50,50,"Choice 1 (50,50)",0,0,50,50,16,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+145,10,10,50,60,"Choice 2 (75, 150)",10,300,75,85,22,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+125,0,0,50,50,"Choice 2 (75, 150)",0,0,75,75,19,"Female","Some University/College Classes","Asian","Single, never married","Student",6000,"Reddit",0,1,0
+155,10,100,60,70,"Choice 2 (75, 150)",10,10,75,85,26,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,0
+525,100,100,50,150,"Choice 2 (75, 150)",300,100,75,375,23,"Female","University/College Diploma","White","Single, never married","Self-Employed",48000,"Reddit",0,1,0
+737,300,100,87,387,"Choice 1 (50,50)",300,100,50,350,22,"Male","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",1,0,1
+335,100,100,60,160,"Choice 2 (75, 150)",100,10,75,175,21,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+410,300,300,50,350,"Choice 1 (50,50)",10,10,50,60,49,"Female","University/College Graduate Degree","White","Married or domestic partnership","Self-Employed",50000,"Reddit",1,0,0
+435,10,100,50,60,"Choice 2 (75, 150)",300,10,75,375,24,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,0
+280,10,100,95,105,"Choice 2 (75, 150)",100,10,75,175,22,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,0
+210,10,100,50,60,"Choice 1 (50,50)",100,100,50,150,36,"Female","High School","White","Married or domestic partnership","Employed for wages",7,"Reddit",1,0,0
+285,100,100,100,200,"Choice 2 (75, 150)",10,10,75,85,39,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",161000,"Reddit",0,1,1
+325,100,10,50,150,"Choice 2 (75, 150)",100,10,75,175,20,"Male","Some University/College Classes","White","Single, never married","Employed for wages",55000,"Reddit",0,1,1
+525,100,10,50,150,"Choice 2 (75, 150)",300,100,75,375,30,"Male","Some University/College Classes","Other","Single, never married","Unemployed not looking for work",0,"Reddit",0,1,1
+475,300,10,0,300,"Choice 2 (75, 150)",100,10,75,175,25,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",0,1,1
+451,300,10,1,301,"Choice 1 (50,50)",100,100,50,150,36,"Female","Some University/College Classes","White","Divorced","Unemployed looking for work",24000,"Reddit",1,0,0
+480,300,10,30,330,"Choice 1 (50,50)",100,10,50,150,27,"Male","Some University/College Classes","Hispanic or Latino","Single, never married","Student",0,"Reddit",1,0,1
+350,100,100,75,175,"Choice 2 (75, 150)",100,10,75,175,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",35000,"Reddit",0,1,1
+415,300,10,30,330,"Choice 2 (75, 150)",10,100,75,85,19,"Male","High School","Asian","Single, never married","Student",0,"Reddit",0,1,1
+526,100,100,51,151,"Choice 2 (75, 150)",300,100,75,375,20,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,1
+735,300,10,60,360,"Choice 2 (75, 150)",300,10,75,375,30,"Female","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",70000,"Reddit",0,1,0
+435,300,10,50,350,"Choice 2 (75, 150)",10,300,75,85,32,"Female","University/College Graduate Degree","Other","Single, never married","Employed for wages",55000,"Reddit",0,1,0
+235,100,100,75,175,"Choice 1 (50,50)",10,100,50,60,33,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",140000,"Reddit",1,0,1
+500,100,10,50,150,"Choice 1 (50,50)",300,300,50,350,29,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",35000,"Reddit",1,0,0
+375,100,10,100,200,"Choice 2 (75, 150)",100,10,75,175,22,"Male","University/College Undergraduate Degree","Asian","Single, never married","Student",0,"Reddit",0,1,1
+235,10,10,50,60,"Choice 2 (75, 150)",100,300,75,175,16,"Prefer Not To Disclose","Some High School Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+205,10,100,45,55,"Choice 1 (50,50)",100,100,50,150,27,"Female","Some University/College Classes","White","Married or domestic partnership","Employed for wages",50000,"Reddit",1,0,0
+455,100,10,5,105,"Choice 1 (50,50)",300,300,50,350,24,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",18900,"Reddit",1,0,1
+775,300,10,100,400,"Choice 2 (75, 150)",300,10,75,375,28,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",45000,"Reddit",0,1,0
+215,100,10,55,155,"Choice 1 (50,50)",10,100,50,60,30,"Female","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",15000,"Reddit",1,0,0
+725,300,300,50,350,"Choice 2 (75, 150)",300,100,75,375,25,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",1e+05,"Reddit",0,1,1
+569,300,300,94,394,"Choice 2 (75, 150)",100,300,75,175,22,"Male","University/College Graduate Degree","Prefer Not To Disclose","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+251,100,10,1,101,"Choice 1 (50,50)",100,100,50,150,27,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",50000,"Reddit",1,0,1
+484,300,300,99,399,"Choice 2 (75, 150)",10,100,75,85,20,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+415,300,10,30,330,"Choice 2 (75, 150)",10,300,75,85,32,"Female","University/College Graduate Degree","Black or African American","Single, never married","Employed for wages",0,"Reddit",0,1,0
+500,100,100,50,150,"Choice 1 (50,50)",300,300,50,350,13,"Male","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",1,0,1
+285,100,100,100,200,"Choice 2 (75, 150)",10,10,75,85,21,"Female","University/College Diploma","Hispanic or Latino","Single, never married","Employed for wages",35000,"Reddit",0,1,0
+525,300,10,50,350,"Choice 2 (75, 150)",100,10,75,175,25,"Male","Some University/College Classes","White","Single, never married","Employed for wages",2e+05,"Reddit",0,1,1
+485,10,300,100,110,"Choice 2 (75, 150)",300,100,75,375,28,"Male","University/College Graduate Degree","White","Married or domestic partnership","Employed for wages",95000,"Reddit",0,1,1
+435,10,300,50,60,"Choice 2 (75, 150)",300,100,75,375,31,"Female","Some University/College Classes","White","Single, never married","Employed for wages",50000,"Reddit",0,1,0
+265,10,300,80,90,"Choice 2 (75, 150)",100,100,75,175,19,"Female","Some University/College Classes","Asian","Single, never married","Student",0,"Reddit",0,1,0
+210,10,300,50,60,"Choice 1 (50,50)",100,300,50,150,18,"Female","Some University/College Classes","White","Single, never married","Employed for wages",10000,"Reddit",1,0,0
+500,100,300,50,150,"Choice 1 (50,50)",300,10,50,350,30,"Male","University/College Diploma","White","Married or domestic partnership","Employed for wages",70000,"Reddit",1,0,1
+435,300,300,50,350,"Choice 2 (75, 150)",10,300,75,85,34,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,1
+350,100,10,100,200,"Choice 1 (50,50)",100,10,50,150,29,"Male","University/College Graduate Degree","Asian","Single, never married","Employed for wages",1e+05,"Reddit",1,0,1
+235,100,100,50,150,"Choice 2 (75, 150)",10,100,75,85,44,"Male","University/College Undergraduate Degree","Asian","Married or domestic partnership","Employed for wages",1e+05,"Reddit",0,1,1
+650,300,10,0,300,"Choice 1 (50,50)",300,300,50,350,23,"Female","University/College Undergraduate Degree","White","Single, never married","Employed for wages",75000,"Reddit",1,0,0
+190,100,10,5,105,"Choice 2 (75, 150)",10,300,75,85,15,"Male","Some High School Classes","Asian","Single, never married","Student",0,"Reddit",0,1,1
+145,10,10,50,60,"Choice 2 (75, 150)",10,10,75,85,28,"Male","Some University/College Classes","White","Married or domestic partnership","Self-Employed",0,"Reddit",0,1,1
+485,300,10,100,400,"Choice 2 (75, 150)",10,100,75,85,24,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",65000,"Reddit",0,1,1
+700,300,300,50,350,"Choice 1 (50,50)",300,300,50,350,26,"Female","University/College Undergraduate Degree","White","Single, never married","Self-Employed",0,"Reddit",1,0,0
+725,300,100,50,350,"Choice 2 (75, 150)",300,10,75,375,25,"Male","University/College Graduate Degree","White","Married or domestic partnership","Unemployed looking for work",0,"Reddit",0,1,1
+705,300,100,30,330,"Choice 2 (75, 150)",300,300,75,375,23,"Male","University/College Undergraduate Degree","White","Single, never married","Unemployed looking for work",0,"Reddit",0,1,1
+210,10,10,50,60,"Choice 1 (50,50)",100,10,50,150,25,"Male","University/College Diploma","White","Single, never married","Employed for wages",36000,"Reddit",1,0,1
+145,10,100,50,60,"Choice 2 (75, 150)",10,10,75,85,22,"Female","University/College Undergraduate Degree","White","Single, never married","Student",0,"Reddit",0,1,0
+750,300,10,100,400,"Choice 1 (50,50)",300,100,50,350,21,"Male","Some University/College Classes","White","Single, never married","Student",10000,"Reddit",1,0,1
+575,300,10,100,400,"Choice 2 (75, 150)",100,300,75,175,23,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+285,100,300,100,200,"Choice 2 (75, 150)",10,100,75,85,27,"Female","University/College Graduate Degree","White","Married or domestic partnership","Student",0,"Reddit",0,1,0
+385,300,10,0,300,"Choice 2 (75, 150)",10,300,75,85,19,"Male","High School","White","Single, never married","Student",0,"Reddit",0,1,1
+435,300,100,50,350,"Choice 2 (75, 150)",10,10,75,85,20,"Male","University/College Undergraduate Degree","Black or African American","Single, never married","Employed for wages",27000,"Reddit",0,1,1
+410,10,10,50,60,"Choice 1 (50,50)",300,300,50,350,24,"Male","University/College Diploma","Hispanic or Latino","Single, never married","Student",0,"Reddit",1,0,1
+575,300,10,100,400,"Choice 2 (75, 150)",100,300,75,175,22,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",48000,"Reddit",0,1,1
+250,100,300,90,190,"Choice 1 (50,50)",10,300,50,60,24,"Male","University/College Graduate Degree","Hispanic or Latino","Single, never married","Prefer Not To Disclose",0,"Reddit",1,0,1
+395,300,100,10,310,"Choice 2 (75, 150)",10,300,75,85,32,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",17000,"Reddit",0,1,1
+205,100,300,20,120,"Choice 2 (75, 150)",10,10,75,85,24,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",40000,"Reddit",0,1,1
+233,10,300,48,58,"Choice 2 (75, 150)",100,300,75,175,15,"Male","High School","Hispanic or Latino","Single, never married","Student",0,"Reddit",0,1,1
+725,300,300,50,350,"Choice 2 (75, 150)",300,100,75,375,21,"Male","University/College Undergraduate Degree","White","Single, never married","Student",20000,"Reddit",0,1,1
+675,300,100,0,300,"Choice 2 (75, 150)",300,10,75,375,34,"Male","University/College Graduate Degree","White","Married or domestic partnership","Other",75000,"Reddit",0,1,1
+210,100,10,50,150,"Choice 1 (50,50)",10,300,50,60,20,"Female","Some University/College Classes","Pacific Islander","Single, never married","Student",12000,"Reddit",1,0,0
+335,100,300,60,160,"Choice 2 (75, 150)",100,300,75,175,36,"Male","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,1
+145,10,300,50,60,"Choice 2 (75, 150)",10,100,75,85,29,"Female","University/College Undergraduate Degree","White","Married or domestic partnership","Employed for wages",50000,"Reddit",0,1,0
+295,100,10,45,145,"Choice 1 (50,50)",100,300,50,150,32,"Female","University/College Graduate Degree","Asian","Single, never married","Student",0,"Reddit",1,0,0
+210,10,300,50,60,"Choice 1 (50,50)",100,300,50,150,18,"Male","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,1
+525,100,10,50,150,"Choice 2 (75, 150)",300,10,75,375,20,"Female","Some University/College Classes","White","Single, never married","Student",0,"Reddit",0,1,0
+575,100,300,100,200,"Choice 2 (75, 150)",300,100,75,375,22,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",0,"Reddit",0,1,1
+475,300,100,0,300,"Choice 2 (75, 150)",100,100,75,175,32,"Male","University/College Graduate Degree","White","Single, never married","Employed for wages",62000,"Reddit",0,1,1
+145,10,100,50,60,"Choice 2 (75, 150)",10,300,75,85,22,"Female","High School","White","Single, never married","Employed for wages",45000,"Reddit",0,1,0
+375,100,300,100,200,"Choice 2 (75, 150)",100,300,75,175,20,"Male","Some University/College Classes","White","Single, never married","Employed for wages",10000,"Reddit",0,1,1
+210,10,10,50,60,"Choice 1 (50,50)",100,100,50,150,27,"Male","University/College Undergraduate Degree","White","Single, never married","Employed for wages",60000,"Reddit",1,0,1
+195,10,10,100,110,"Choice 2 (75, 150)",10,100,75,85,29,"Male","University/College Undergraduate Degree","Arab or Middle Eastern","Single, never married","Employed for wages",60000,"Reddit",0,1,1
+725,300,100,250,550,"Choice 2 (75, 150)",100,300,75,175,19,"Male","Some University/College Classes","White","Single, never married","Employed for wages",6000,"Reddit",0,1,1
+540,100,300,90,190,"Choice 1 (50,50)",300,100,50,350,20,"Other","Some University/College Classes","White","Single, never married","Student",0,"Reddit",1,0,0
+394,10,10,34,44,"Choice 1 (50,50)",300,100,50,350,27,"Female","University/College Graduate Degree","White","Single, never married","Employed for wages",45000,"Reddit",1,0,0
+435,10,10,50,60,"Choice 2 (75, 150)",300,100,75,375,28,"Female","University/College Graduate Degree","White","Single, never married","Self-Employed",17000,"Reddit",0,1,0
