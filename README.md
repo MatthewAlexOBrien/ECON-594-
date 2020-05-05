@@ -1,2 +1,2 @@
 # ECON-594-
-Python Code for web app development for Master's Thesis
+Python Code for used to create web app for completion of Master's Thesis
